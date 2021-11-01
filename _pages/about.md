@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-Hello! I'm an incoming MD-PhD candidate at the University of Pennsylvania and a Caltech physics graduate (c/o 2021). I am interested in applying physics-derived and computational tools to advance our ability to treat and diagnose human disease. I'm aspiring to become a physician-scientist to advance our understanding of science, technology and medicine, and ultimately save lives.
+Hello! I am a current MD-PhD candidate at the University of Pennsylvania and previously graduated with a BS in Applied Physics from Caltech. I am interested in applying physics-derived and computational tools to advance our ability to treat and diagnose human disease. I'm aspiring to become a physician-scientist to advance our understanding of science, technology and medicine.
 
 # Newsworthy
 > **May 2021**
