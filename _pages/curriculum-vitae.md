@@ -154,6 +154,10 @@ classes: wide
   </style>
 </head>
 
+
+Please note: this website is undergoing major updates and will soon be deprecated. The URL for this website will change to [https://myaomeow.github.io](https://myaomeow.github.io). The new website will eventually be at [https://michaelsyao.com](https://michaelsyao.com). To preview my new site, please visit [https://michaelsyao.herokuapp.com](https://michaelsyao.herokuapp.com).
+{: .notice--danger}
+
 Welcome to my CV! Click on one of the categories below to learn more. To download the PDF version, click [here](https://drive.google.com/file/d/1zf0EkatFk5C-xFOP6IHDabSQb06q1iO1/view?usp=sharing).
 
 <a id="cv"></a>

@@ -3,7 +3,8 @@ title: "About"
 author_profile: true
 ---
 
-<p style="color: #ff7f7f;">Please note: this website is undergoing major updates and will soon be deprecated. The URL for this website will change to [https://myaomeow.github.io](https://myaomeow.github.io). The new website will eventually be at [https://michaelsyao.com](https://michaelsyao.com).</p>
+Please note: this website is undergoing major updates and will soon be deprecated. The URL for this website will change to [https://myaomeow.github.io](https://myaomeow.github.io). The new website will eventually be at [https://michaelsyao.com](https://michaelsyao.com). To preview my new site, please visit [https://michaelsyao.herokuapp.com](https://michaelsyao.herokuapp.com).
+{: .notice--danger}
 
 Hello! I am a current MD-PhD candidate at the University of Pennsylvania and previously graduated with a BS in Applied Physics from Caltech. I am interested in applying physics-derived and computational tools to advance our ability to treat and diagnose human disease. I'm aspiring to become a physician-scientist to advance our understanding of science, technology and medicine.
 

@@ -259,6 +259,9 @@ toc: false
   </style>
 </head>
 
+Please note: this website is undergoing major updates and will soon be deprecated. The URL for this website will change to [https://myaomeow.github.io](https://myaomeow.github.io). The new website will eventually be at [https://michaelsyao.com](https://michaelsyao.com). To preview my new site, please visit [https://michaelsyao.herokuapp.com](https://michaelsyao.herokuapp.com).
+{: .notice--danger}
+
 Welcome to my teaching page! Here is a repository of different learning modules geared towards high school students and college students enrolled in intro classes. Click on a topic below to get started.
 
 To learn more about college and medical school admissions advising, click [here](/advising/).
