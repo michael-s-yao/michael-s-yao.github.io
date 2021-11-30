@@ -8,7 +8,20 @@ classes: wide
 Here is a list of some of my academic recognitions to date.
 
 <ul id='timeline'>
-  <li>
+  <li class='work'>
+    <input class='radio' id='work3' name='works' type='radio'>
+    <div class="relative">
+      <label for='work3'>George W. Housner Prize, Caltech</label>
+      <span class='date'>June 2021</span>
+      <span class='circle'></span>
+    </div>
+    <div class='content'>
+      <p>
+        This <a href="https://www.caltech.edu/about/news/2021-student-leadership-award-winners" style="text-decoration: none; color: rgb(31, 78, 121)">merit-based award</a> recognizes academic excellence and original research from a senior in the upper 20% of the graduating class, and is the highest recognition for original research by an undergraduate at Caltech.
+      </p>
+    </div>
+  </li>
+  <li class='work'>
     <input class='radio' id='work5' name='works' type='radio' checked>
     <div class="relative">
       <label for='work5'>Richter Memorial Fund Scholarship, Caltech</label>

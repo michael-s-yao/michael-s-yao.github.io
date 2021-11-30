@@ -5,7 +5,7 @@ author_profile: true
 
 <p style="color: #ff7f7f;">Please note: this website is undergoing major updates and will soon be deprecated. The URL for this website will change to [https://myaomeow.github.io](https://myaomeow.github.io). The new website will eventually be at [https://michaelsyao.com](https://michaelsyao.com).</p>
 
-Hello! I'm an incoming MD-PhD candidate at the University of Pennsylvania and a Caltech physics graduate (c/o 2021). I am interested in applying physics-derived and computational tools to advance our ability to treat and diagnose human disease. I'm aspiring to become a physician-scientist to advance our understanding of science, technology and medicine, and ultimately save lives.
+Hello! I am a current MD-PhD candidate at the University of Pennsylvania and previously graduated with a BS in Applied Physics from Caltech. I am interested in applying physics-derived and computational tools to advance our ability to treat and diagnose human disease. I'm aspiring to become a physician-scientist to advance our understanding of science, technology and medicine.
 
 # Newsworthy
 > **May 2021**
