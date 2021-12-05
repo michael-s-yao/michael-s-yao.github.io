@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Michael S. Yao
-email: myao@caltech.edu
+email: michael.yao@pennmedicine.upenn.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my website! My name is Michael Yao and I'm a current MD-PhD Candidate at the Perelman School of Medicine at the University of Pennsylvania.
 twitter_username: michael_s_yao
@@ -22,10 +22,6 @@ github_username: myaomeow
 minimal_mistakes_skin: default
 search: true
 search_provider: algolia
-
-google:
-    tracking_id: UA-173081175-1
-    anonymize_ip: true
 
 algolia:
     application_id: E3YCTJRDSB
@@ -74,7 +70,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://michaelsyao.com/about/"
+      url: "https://michaelsyao.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/michael_s_yao"
