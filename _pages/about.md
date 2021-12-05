@@ -3,10 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Please note: this website is undergoing major updates and will soon be deprecated. The URL for this website will change to [https://myaomeow.github.io](https://myaomeow.github.io). The new website will eventually be at [https://michaelsyao.com](https://michaelsyao.com). To preview my new site, please visit [https://michaelsyao.herokuapp.com](https://michaelsyao.herokuapp.com).
+Please note: This website is no longer being maintained. My personal page can now be found at [https://michaelsyao.com](https://michaelsyao.com).
 {: .notice--danger}
 
-Hello! I am a current MD-PhD candidate at the University of Pennsylvania and previously graduated with a BS in Applied Physics from Caltech. I am interested in applying physics-derived and computational tools to advance our ability to treat and diagnose human disease. I'm aspiring to become a physician-scientist to advance our understanding of science, technology and medicine.
+<!-- Hello! I am a current MD-PhD candidate at the University of Pennsylvania and previously graduated with a BS in Applied Physics from Caltech. I am interested in applying physics-derived and computational tools to advance our ability to treat and diagnose human disease. I'm aspiring to become a physician-scientist to advance our understanding of science, technology and medicine.
 
 # Newsworthy
 > **May 2021**
@@ -53,4 +53,4 @@ Hello! I am a current MD-PhD candidate at the University of Pennsylvania and pre
    1. Excited to announce that a paper published by Dr. Anna Maw, one of [AtriaConnect](https://www.atriaconnect.org/)'s volunteer physicians, has been published in [Diagnostics](https://pubmed.ncbi.nlm.nih.gov/31635219/). Our work discusses some of the stakeholder perceptions in implementing point-of-care ultrasound training in resource-limited settings.
 
 # Recent Tweets
-<a class="twitter-timeline" data-lang="en" data-height="800" data-theme="light" href="https://twitter.com/michael_s_yao?ref_src=twsrc%5Etfw">Tweets by michael_s_yao</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-lang="en" data-height="800" data-theme="light" href="https://twitter.com/michael_s_yao?ref_src=twsrc%5Etfw">Tweets by michael_s_yao</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->

@@ -3,31 +3,12 @@ permalink: /curriculum-vitae/references/
 title: "References"
 toc: false
 classes: wide
-feature_row:
-  - image_path: /assets/images/mikhail-shapiro.png
-    alt: "mikhail-shapiro"
-    title: "Mikhail Shapiro"
-    url: "https://cce.caltech.edu/people/mikhail-g-shapiro"
-    btn_label: "Website"
-    btn_class: "btn--primary"
-    excerpt: "Professor, Caltech Chemical Engineering"
-  - image_path: /assets/images/rob-phillips.png
-    alt: "rob-phillips"
-    title: "Rob Phillips"
-    excerpt: "Professor, Caltech Biophysics"
-    url: "https://www.bbe.caltech.edu/people/robert-b-phillips"
-    btn_label: "Website"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/justin-lee.png
-    alt: "justin-lee"
-    title: "Justin Lee"
-    excerpt: "MD-PhD Candidate, Caltech-UCLA MSTP"
-    url: "https://justindlee.com/"
-    btn_label: "Website"
-    btn_class: "btn--primary"
 ---
 
-Please <a href="mailto: michaelyao2017@gmail.com">email me</a> for contact information to get in touch with a particular reference.
+Please note: This website is no longer being maintained. My personal page can now be found at [https://michaelsyao.com](https://michaelsyao.com).
+{: .notice--danger}
+
+<!-- Please <a href="mailto: michaelyao2017@gmail.com">email me</a> for contact information to get in touch with a particular reference.
 
 <div class="feature__wrapper">
     <div class="feature__item">
@@ -92,4 +73,4 @@ Please <a href="mailto: michaelyao2017@gmail.com">email me</a> for contact infor
       <path d="M27.172 5L25 2.828 27.828 0 34.9 7.071l-7.07 7.071L25 11.314 27.314 9H0V5h27.172z "/>
     </symbol>
   </defs>
-</svg>
+</svg> -->

@@ -5,7 +5,10 @@ toc: false
 classes: wide
 ---
 
-Here is a list of some of my academic recognitions to date.
+Please note: This website is no longer being maintained. My personal page can now be found at [https://michaelsyao.com](https://michaelsyao.com).
+{: .notice--danger}
+
+<!-- Here is a list of some of my academic recognitions to date.
 
 <ul id='timeline'>
   <li class='work'>
@@ -161,4 +164,4 @@ Here is a list of some of my academic recognitions to date.
       <path d="M27.172 5L25 2.828 27.828 0 34.9 7.071l-7.07 7.071L25 11.314 27.314 9H0V5h27.172z "/>
     </symbol>
   </defs>
-</svg>
+</svg> -->

@@ -9,7 +9,10 @@ toc: false
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
-<div class="box-wrap">
+Please note: This website is no longer being maintained. My personal page can now be found at [https://michaelsyao.com](https://michaelsyao.com).
+{: .notice--danger}
+
+<!-- <div class="box-wrap">
   <div class="boxTwo">
     <h2>Programming</h2>
     <table style="width:100%;margin:0px;border-style: hidden;font-size: 13pt" cellspacing="0" cellpadding="0">
@@ -140,4 +143,4 @@ toc: false
       <path d="M27.172 5L25 2.828 27.828 0 34.9 7.071l-7.07 7.071L25 11.314 27.314 9H0V5h27.172z "/>
     </symbol>
   </defs>
-</svg>
+</svg> -->

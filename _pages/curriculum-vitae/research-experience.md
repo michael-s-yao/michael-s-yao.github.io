@@ -72,7 +72,10 @@ toc: false
 	</style>
 </head>
 
-Read about the research groups I've been a part of below, organized from most to least recent. To learn more about my current research interests, check out <a href="/projects/" style="text-decoration: none;">this link</a>.
+Please note: This website is no longer being maintained. My personal page can now be found at [https://michaelsyao.com](https://michaelsyao.com).
+{: .notice--danger}
+
+<!-- Read about the research groups I've been a part of below, organized from most to least recent. To learn more about my current research interests, check out <a href="/projects/" style="text-decoration: none;">this link</a>.
 
 <hr>
 
@@ -153,4 +156,4 @@ Read about the research groups I've been a part of below, organized from most to
       <path d="M27.172 5L25 2.828 27.828 0 34.9 7.071l-7.07 7.071L25 11.314 27.314 9H0V5h27.172z "/>
     </symbol>
   </defs>
-</svg>
+</svg> -->

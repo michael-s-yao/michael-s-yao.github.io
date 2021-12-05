@@ -4,7 +4,10 @@ title: "Academic Overview"
 toc: false
 ---
 
-A timeline of my academic career and performance summary so far:
+Please note: This website is no longer being maintained. My personal page can now be found at [https://michaelsyao.com](https://michaelsyao.com).
+{: .notice--danger}
+
+<!-- A timeline of my academic career and performance summary so far:
 
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
   
@@ -73,4 +76,4 @@ A timeline of my academic career and performance summary so far:
       <path d="M27.172 5L25 2.828 27.828 0 34.9 7.071l-7.07 7.071L25 11.314 27.314 9H0V5h27.172z "/>
     </symbol>
   </defs>
-</svg>
+</svg> -->

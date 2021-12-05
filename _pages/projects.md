@@ -5,10 +5,10 @@ toc: true
 toc_label: "Contents"
 ---
 
-Please note: this website is undergoing major updates and will soon be deprecated. The URL for this website will change to [https://myaomeow.github.io](https://myaomeow.github.io). The new website will eventually be at [https://michaelsyao.com](https://michaelsyao.com). To preview my new site, please visit [https://michaelsyao.herokuapp.com](https://michaelsyao.herokuapp.com).
+Please note: This website is no longer being maintained. My personal page can now be found at [https://michaelsyao.com](https://michaelsyao.com).
 {: .notice--danger}
 
-## Research
+<!-- ## Research
 
 I am a current senior at Caltech studying applied physics. My current research interests involve ultrasound and MRI imaging and therapy, under the mentorship of [Mikhail Shapiro](http://cce.caltech.edu/people/mikhail-g-shapiro) and Mohamad Abedi in the [Shapiro Laboratory](http://shapirolab.caltech.edu/). Prior to Caltech, I worked in the Gruenert Lab at UCSF on stem cell research and modification through CRISPR/Cas9 technologies. I aspire to pursue a career as a physician-scientist, involving research at the intersection of multiple fundamental sciences for real-world applications.
 
@@ -47,4 +47,4 @@ It has been well-characterized that repeated sequences in a plasmid DNA sequence
 
 ### [The Dimensions of Social Distancing](/projects/dimensions-of-coronavirus/index.html)
 
-In this thought experiment, I investigate how the "dimensionality" of social distancing can affect the rate of coronavirus infection spread in a given population. This will hopefully help inform the benefits of social distancing especially during the COVID-19 pandemic, and how to most effectively social distance.
+In this thought experiment, I investigate how the "dimensionality" of social distancing can affect the rate of coronavirus infection spread in a given population. This will hopefully help inform the benefits of social distancing especially during the COVID-19 pandemic, and how to most effectively social distance. -->

@@ -45,10 +45,10 @@ toc: false
 	</style>
 </head>
 
-Please note: this website is undergoing major updates and will soon be deprecated. The URL for this website will change to [https://myaomeow.github.io](https://myaomeow.github.io). The new website will eventually be at [https://michaelsyao.com](https://michaelsyao.com). To preview my new site, please visit [https://michaelsyao.herokuapp.com](https://michaelsyao.herokuapp.com).
+Please note: This website is no longer being maintained. My personal page can now be found at [https://michaelsyao.com](https://michaelsyao.com).
 {: .notice--danger}
 
-_"If we end this chase, the fun stops. Don't you get it? The happiness is in the pursuit itself." ~anonymous~_
+<!-- _"If we end this chase, the fun stops. Don't you get it? The happiness is in the pursuit itself." ~anonymous~_
 
 <h2>People, Parties, and Pets</h2>
 <div class="grid-container">
@@ -88,4 +88,4 @@ _"If we end this chase, the fun stops. Don't you get it? The happiness is in the
     <img class='grid-item grid-item-9' src='/assets/images/benji-png.png' alt='benji'>
     <p>"Don't take my toy!"</p>
   </div>
-</div>
+</div> -->
