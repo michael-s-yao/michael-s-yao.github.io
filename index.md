@@ -262,7 +262,7 @@ toc: false
 
 Welcome to my teaching page! Here is a repository of different learning modules geared towards high school students and college students enrolled in intro classes. Click on a topic below to get started.
 
-To learn more about college and medical school admissions advising, click [here](/advising/).
+To visit my personal website and learn more about me, click [here](https://michaelsyao.com).
 
 <div class="row">
   <a href="#java"><div class="column">
