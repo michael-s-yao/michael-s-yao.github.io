@@ -6,6 +6,7 @@ toc: false
 
 <head>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+  <meta name="google-site-verification" content="X5MV6qZMp-JX5xVqgZ0PFKTdg4VPz5lxADzO17aKlrk" />
   <style>
     * {
       box-sizing: border-radius;
