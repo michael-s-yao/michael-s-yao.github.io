@@ -260,9 +260,6 @@ toc: false
   </style>
 </head>
 
-Please note: This website is no longer being maintained. My personal page can now be found at [https://michaelsyao.com](https://michaelsyao.com).
-{: .notice--danger}
-
 Welcome to my teaching page! Here is a repository of different learning modules geared towards high school students and college students enrolled in intro classes. Click on a topic below to get started.
 
 To learn more about college and medical school admissions advising, click [here](/advising/).
