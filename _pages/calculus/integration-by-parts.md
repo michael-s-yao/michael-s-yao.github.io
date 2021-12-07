@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 Recall the [product rule](/calculus/evaluating-derivatives/index.html) for differentiation, _way_ back to when we were talking about differentiation techniques. That is, let's say that we had two functions $u$ and $v$ that are both functions of $x$. We could evaluate the derivative of their product in the following way:
 
 $$\frac{d}{dx}[uv]=u\frac{dv}{dx}+v\frac{du}{dx}$$

@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 > ## Waking Up in the Morning
 
 Waking up in the morning is something that everyone is familiar with. However, there are a lot of things that go into waking up: drinking a glass of water, brushing your teeth, using the restroom, and taking a shower are some of the things that might make up your morning routine. Each of these individual tasks might have additional components to them as well. As an example, drinking a glass of water involves the actions of (1) getting a glass, (2) filling the glass with water, and (3) holding up the glass to your mouth in order to drink. However, if someone asks you how your morning was, you typically don't go into all of the details of these different tasks. However, based on the "success" of how these different tasks were performed, you might respond with either "It was good." or "It was horrible!"

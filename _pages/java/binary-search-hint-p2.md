@@ -4,6 +4,10 @@ author_profile: false
 title: "Floored Square Roots Using Binary Search"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 <div class="notice--info">
 <p style="font-size: 13pt">Using a binary search algorithm, find $\lfloor \sqrt{n} \rfloor$ for nonnegative integers $n$. The floor function $\lfloor\text{ } \rfloor$ essentially tells you to always round down if $\sqrt{n}$ is a decimal number. You may <em>not</em> use the <code class="language-plaintext highlighter-rouge">java.lang.Math.sqrt()</code> function.</p>
 </div>

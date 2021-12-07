@@ -4,6 +4,10 @@ author_profile: false
 title: "Friction"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 We briefly introduced the idea of friction last time when talking about [mechanical equilibrium](/physics/mechanical-equilibrium/index.html). Today, we'll be delving more deeply into what friction really is.
 
 Friction is a force that opposes the motion of objects, and always acts in the opposite direction (or intended direction) of the object. At a nanometer scale, friction arises because no surface is truly smooth, and so the different microscopic jagged edges will rub against each other to result in friction. This mechanism of how friction works is honestly not super important. There are two different types of friction: static and kinetic.

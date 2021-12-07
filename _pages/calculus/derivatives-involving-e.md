@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 Today, we're going to be wrapping up our work on introducing all of the different rules in evaluating different types of analytic functions. We've covered how to differentiate [polynomials](/calculus/evaluating-derivatives/index.html), [rational functions](/calculus/evaluating-derivatives/index.html), [implicitly defined functions](/calculus/implicit-differentiation/index.html), and [trigonometric functions](/calculus/trig-function-derivatives/index.html). The last major differentiation technique we need to cover is finding the derivative of exponential and logarithmic functions.
 
 > ## Deriving the Exponential Function Derivative

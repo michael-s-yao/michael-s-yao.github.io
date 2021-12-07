@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 A pendulum are simply a weight suspended from a pivot using a string so that the weight can swing freely. You might have seen examples of pendulums before in [older clocks](https://en.wikipedia.org/wiki/Pendulum#Clock_pendulums) such as a grandfather clock, which uses the motion of a pendulum to keep track of time. We'll investigate how this might work later.
 
 > ## A Typical Setup

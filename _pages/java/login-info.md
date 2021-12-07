@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 > ## Introduction
 
 Let's travel back to the time of the dinosaurs when the Internet was first created. At the time, web browsers like Firefox and Chrome didn't exist, and moreover, people actually had to memorize all of their login information to their user accounts on different websites. If you're like me and have horrible memory, this would prove to be an impossible task. Today, we'll see if we can write a Java program that keeps track of all of our different user accounts.

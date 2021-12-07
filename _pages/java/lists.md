@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 > ## ```ArrayList```s
 
 The fact that the length of arrays cannot be modified is a pretty big limitation. What if we don't know how many elements will have at the beginning? What if we want the length of our list to change in response to something that dynamically happens in our program? For these reasons, we have ```ArrayList```s, which build on our arrays by being able to change their size.

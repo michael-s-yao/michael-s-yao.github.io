@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 The following practice problems serve to review some of main concepts of integration from the past couple of lessons, up until the $u$-substitution lesson. I encourage you to attempt the problems yourself before taking a look at the solutions.
 
 > ## Practice Problems

@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 In this lesson, we'll introduce the concept of the antiderivative, discuss the differences between definite and indefinite integrals, and introduce ways to more easily evaluate integral expressions without having to use limit definitions every time. 
 
 > ## From Last Week...

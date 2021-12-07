@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 The past few lessons have focused on theoretical applications of derivatives: given an arbitrary function with no physical relevancy, we wanted to find its derivative. From here, we want to focus on using these techniques to solve actual, real-world problems.
 
 > ## Related Rates

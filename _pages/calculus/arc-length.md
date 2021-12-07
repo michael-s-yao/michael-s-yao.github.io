@@ -6,6 +6,11 @@ toc: true
 toc_label: "Contents"
 ---
 
+
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 Through our discussions on integration techniques, we have learned how to use integration in order to calculate the area of different regions, and even the volume of different solids. In this module, we will learn how to use integration to calculate the _length_ of different curves.
 
 Imagine that we have a simple, straight line that runs from the point $(x, f(x))$ to $(x+\Delta x, f(x+\Delta x))$.

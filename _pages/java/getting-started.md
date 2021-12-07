@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 > ## Hello, World!
 
 Welcome to Java! Java is one of the most popular programming languages for both beginners and experts, and can be used in everything from finance and modeling to making both mobile and web-based apps. Today, we'll be learning how to write a simple program to print out ```Hello, World!```.

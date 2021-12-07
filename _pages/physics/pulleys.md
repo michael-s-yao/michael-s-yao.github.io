@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 Pulleys are going to be our first introduction to simple machines, which are contraptions that make doing work easier. In our case, a [pulley](https://en.wikipedia.org/wiki/Pulley) typically features a wheel on an axle with a rope around it, designed to support movement and change of direction of forces. Pulleys are useful in being able to redirect the direction of forces.
 
 Pulleys are often used in problem setups where two masses are connected by a massless string that cannot be stretched. In working with pulleys in these types of problems, the two most important things are that the existence of the pulley requires that the two masses have equal magnitudes of force (of tension from the rope) and acceleration. (We'll see that the equal acceleration condition really only holds for one-pulley systems.) To illustrate the idea behind pulleys, we'll show a few example problems here.

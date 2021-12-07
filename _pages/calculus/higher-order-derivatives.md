@@ -4,6 +4,10 @@ author_profile: false
 title: "Higher Order Derivatives"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 As we've seen in our discussion about [derivatives](/calculus/evaluating-derivatives/index.html), the derivative of a differentiable function is almost always another function. Therefore, you could imagine that we could also take the derivative _of this derivative_ as well. This is called the second derivative. Let's take a look at an example. Define the function 
 
 $$f(x)=2x^3-x^2-9x+9$$

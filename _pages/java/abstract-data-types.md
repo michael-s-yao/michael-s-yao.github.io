@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 In our discussion about [```ArrayList```s](/java/lists-and-arrays/index.html) and [```LinkedList```s](/java/linked-lists-and-matrices/index.html), we briefly discussed the properties of the **List interface**. These two List implementations were different in terms of utilizing computer memory and how worked "under-the-hood," but from an outside program, they looked exactly the same. That is, the List interface has a certain number of special properties about it:
 
   - It can multiple individual elements that are all of the same variable type.

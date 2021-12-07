@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 To wrap up our work with derivatives, I've included a set of free response questions for every major topic involving limits, continuity, and derivatives. Go through these problems for review. The answer key and explanations for all of the problems on this page can be found [here].
 
 > ## Limits and Continuity

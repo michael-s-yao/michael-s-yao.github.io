@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 In this module, we will begin learning the second major topic of AP Physics: _electromagnetism_. As we will see, **electromagnetism** (abbreviated as _E&M_) is the study of electric and magnetic fields and how they interact with different types of matter. Electromagnetism is often considered to be the most difficult field of physics at the introductory level, but hopefully, we'll be able to make the learning process as painless as possible.
 
 Our discussion will begin with _electrostatics_, which is the study of the electric fields and forces between stationary charged particles.

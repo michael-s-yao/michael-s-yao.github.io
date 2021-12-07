@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 > ## Newton's Laws
 
 In this module, we'll be continuing to investigate how our working physics framework describes into our current understanding of rotating systems. Let's review Newton's laws for rotating systems that we introduced last time:

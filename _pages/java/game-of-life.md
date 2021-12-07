@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 > ## Introduction
 
 Consider a hypothetical universe that's a two-dimensional $xy$ grid of $n\times n$ square cells. Each of these cells represents a person that can be in either one of two states: _alive_ or _dead_. Each of these persons interacts with its eight neighbors, which are the cells that are horizontally vertically, or diagonally adjacent. The neighbors of three different types of cells (shown in blue) are highlighted below (in red):

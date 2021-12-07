@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 Last time, we learned about [recursion](/java/recursion/index.html), which we introduced as a powerful programming technique where the function calls itself. In this lesson, we'll learn about one of the most commonly tested and referenced algorithms that relies on the use of recursion. This algorithm is called **binary search**.
 
 > ## The Setup

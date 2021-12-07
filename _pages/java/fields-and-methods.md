@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 Last time, we built a very simple Java ```class``` called ```HelloWorld``` that did one thing: print out a message ```Hello, World!```:
 
 ```java

@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 In this module, we will discuss the properties of how to represent functions as the integrals of other functions. In the process, we will introduce the two fundamental theorems of calculus.
 
 > ## Definition of an Accumulation Function

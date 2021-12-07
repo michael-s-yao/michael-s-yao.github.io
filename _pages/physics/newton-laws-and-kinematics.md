@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 > ## Important Quantities in Physics
 
 Physics is the practice of describing physical quantities using the formalism of mathematics. To illustrate the usage of physics let's consider a car that is driving down a straight road. What are the important quantities for us to think about?

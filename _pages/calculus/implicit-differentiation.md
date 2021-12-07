@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 Consider the following function $y=f(x)$ defined by the equation $2x^3-5xy-y^2=3$. Suppose that we want to find the derivative of $y$. How would we go about this? This equation is not in the standard form $y=\text{some function of }x$ that we're used to, and it can't be easily rewritten into this standard form because of the mixed terms like $-5xy$ that are present. At first glance, it seems like this function is not differentiable. 
 
 We call functions defined in this way to be _implicitly defined_. A function is called an  **explicit function** when it's written in the form of $y=\text{some function of }x$. There's no terms dependent on $y$ on the right hand side, and there's no terms dependent on $x$ on the left hand side. On the other hand, a function is called an **implicit function** when there are $x$- and $y$- dependent terms all mixed together. For example, the function $y=f(x)$ defined by the equation $2x^3-5xy-y^2=3$ above is considered to be an _implicit function_. Today, we'll be learning how to differentiate implicit functions.

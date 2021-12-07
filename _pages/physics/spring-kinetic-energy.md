@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 We’ve spent the last two sessions introducing the concept of [simple harmonic motion](/physics/springs-and-sho/index.html), and considering the cases of both oscillating masses with and without friction. Today, we’ll be looking more closely at how we can describe the energy of oscillating systems.
 
 > ## Review of Energy

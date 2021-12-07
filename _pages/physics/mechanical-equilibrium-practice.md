@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 Physics problems involving mechanical equilibrium are very common in introductory physics classes. For this reason, we will practice doing a couple of these problems today.
 
 > ## Example 1: Two Masses on an Inclined Plane

@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 As we discussed previously, the prerequisite that a list is sorted is essential in order for us to be able to search through it using a faster algorithm such as [binary search](/java/binary-search/index.html). In the following two sections, we will discuss efficient (and inefficient) algorithms that can be used to satisfy this prerequisite and sort lists/arrays of elements.
 
 > ## A Brute Force Attempt: Straight Insertion Sort

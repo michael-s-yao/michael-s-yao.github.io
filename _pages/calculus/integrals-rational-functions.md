@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 Today, our sole focus is in evaluating integral expressions where the integrand is some sort of _rational function_. That is, we are interested in evaluating integrals of the form
 
 $$\int dx\text{ }\frac{f(x)}{g(x)}$$

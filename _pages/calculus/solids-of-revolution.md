@@ -6,6 +6,11 @@ toc: true
 toc_label: "Contents"
 ---
 
+
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 Over the past couple of modules, we have been focused on developing a theoretical toolkit for being able to analytically evaluate a vast range of different integrals. This involved learning techniques such as [integration by parts](/calculus/integration-by-parts/index.html), [partial fraction decomposition](/calculus/integrals-rational-functions/index.html#partial-fraction-decomposition), and [trigonometric substitutions](/calculus/integrals-rational-functions/index.html#trigonometric-substitutions), among other advanced methods.
 
 What was the point of learning all of these methods? While we have learned that computing integrals can help us, for example, compute the area underneath a curve, it turns out that another useful application of integration is to find the area of certain three-dimensional objects. Today, we’ll be learning how to use integration to find the volume of a very specific class of three-dimensional objects: _solids of revolution_.

@@ -5,6 +5,11 @@ title: "Techniques to Evaluate Derivatives"
 toc: true
 toc_label: "Contents"
 ---
+
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 > ## Basic Techniques
 
 [Last time](/calculus/intro-to-derivatives/index.html), we talked about some of the different properties of derivatives and the limit definition of the derivative. As another example, lets try evaluating the derivative of $f(x)=x^5$. Using the limit definition and also expanding out the binomial term, we have

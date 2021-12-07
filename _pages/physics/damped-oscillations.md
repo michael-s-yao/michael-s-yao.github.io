@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 Recall that one of points about the simple harmonic oscillator that we talked about [last time](/physics/springs-and-sho/index.html#complex-exponentials) that introducing a friction force term that is proportional to the velocity of the mass. We will investigate this situation a bit more closely today.
 
 A quick note: in order to understand all of the (mathematically heavy) derivations, I recommend that you have prior experience with some basic differential equations and have heard of linear independence. 

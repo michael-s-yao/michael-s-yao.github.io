@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 Imagine that we have two cars that are traveling head on and collide with one another. Hopefully you don't have personal experience with this, but the result of such a collision is often catastrophic if not deadly. Compare this with, say two ants that are traveling head on and accidentally bump into each other. I can hardly make the conclusion that the ants will be only _slightly_ inconvenienced at most. Physically, these two collision events are the same, so why are their outcomes so extremely different?
 
 In today's lesson, we'll be exploring the answer to this question in our discussion on collision problems, and the related physical quantity of _momentum_.

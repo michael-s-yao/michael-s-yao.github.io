@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 Bitwise operations are an important and efficient set of instructions to perform on individual bits in C. In this module, we will discuss the different types of bitwise operations and also their utility in different situations.
 
 > ## Introduction

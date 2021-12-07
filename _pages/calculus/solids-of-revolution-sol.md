@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 <div class="notice--danger">
 <p style="font-size:13pt">The following solutions are for the introductory electrostatics problems linked <a href="/calculus/solids-of-revolution/index.html#exercises">here</a>. I encourage you to attempt them by yourself first before looking through the solutions.</p>
 </div>

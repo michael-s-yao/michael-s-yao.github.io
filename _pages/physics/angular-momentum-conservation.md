@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 Over the three teaching modules, we have focused on how to adapt our mathematical formalism for translational, linear motion to rotational motion. We introduced the following rotational analogs for common translational physical quantities:
 
 <table style="width:100%">

@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 Today, we'll be learning about pointers in C programming, which can essentially be thought of as address to certain locations in primary memory storage. While this may _sound_ straightforward, pointers are often considered to be one of the most confusing subjects for students just beginning to learn C. In order to illustrate how to use pointers and related concepts, we'll be referring to the following code in ```repl.it``` throughout the entirety of this lesson. I encourage you to follow along by opening the ```repl``` in a new tab and also participating in the exercise!
 
 <iframe height="1000px" width="100%" src="https://repl.it/@myaomeow/Pointers?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>

@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 Recall one of Newton's Law's in the context of rotational motion that we introduced [last time](/physics/mechanical-equilibrium-revisited/index.html):
 
 $$\sum \vec{\tau}=\vec{\tau}_{\text{net}}\propto\vec{\alpha}$$

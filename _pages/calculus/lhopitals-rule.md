@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 First, a preface: I am not doing justice to [Guillaume de L'Hopital](https://en.wikipedia.org/wiki/Guillaume_de_l%27H%C3%B4pital)'s namesake. The "o" character should technically have a [circumflex accent](https://en.wikipedia.org/wiki/Circumflex), but unfortunately I cannot find an easy way to include special characters in this markdown typeset.
 
 L'Hopital's rule is an extremely useful technique that can be used to evaluate derivatives that are otherwise unevaluable. The rule says that if $\lim_{x\rightarrow c}f(x)$ and $\lim_{x\rightarrow c}g(x)$ are both equal to $0$ or both equal to $\pm\infty$, then it follows that

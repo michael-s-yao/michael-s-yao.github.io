@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 [Previously](/java/abstract-data-types/index.html), we discussed one of the many abstract data types in programming: lists. Lists had particular characteristics about them in that they could keep an ordered list of items, and we could insert and remove elements while still maintaining the order of the list. Today, we will be introducing two new types of ADTs: stacks and queues.
 
 > ## Stacks

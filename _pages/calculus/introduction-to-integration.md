@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 We'll going to entirely switch gears now and move onto the next big topic that follows differentiation: **integration** (we'll define what this is below). To motivate this discussion let's consider the following situation.
 
 > ## A Motivating Example

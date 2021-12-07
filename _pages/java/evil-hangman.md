@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 <div class="notice--info">
 <p style="font-size:13pt"><strong>Learning Objectives:</strong> By the end of this learning module, you should understand how to...</p>
 <ol>

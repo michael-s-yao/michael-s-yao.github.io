@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 Welcome to computing systems! Our goal in these set of modules is to break down exactly how computers work _under the hood_. This means that we want to understand what the terms "Hard Drive," "RAM," "caches," "computer memory", and others mean. In order to accomplish this goal, we will be using a programming language called C.
 
 > ## Why Learn C?

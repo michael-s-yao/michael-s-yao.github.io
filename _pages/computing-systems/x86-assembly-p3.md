@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 Now that we have an idea of the basics of what goes into assembly code, let's try actually reading and writing assembly ourselves! For our reference, here's a [link](/computing-systems/x86-assembly-p2/index.html#common-x86-assembly-commands) to the list of common instructions that we talked about last time.
 
 > ## Practice Reading Assembly

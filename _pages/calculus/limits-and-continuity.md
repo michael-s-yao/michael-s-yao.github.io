@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 > ## Limits
 
 Limits ask the question of what happens to a function $f(x)$ as we get arbitrarily close to a value of $x$. They are denoted as $\lim_{x\rightarrow c}f(x)=L$, where $L, c$ are numbers. In typical cases, we can simply plug in $x=c$ into $f(x)$ to get $L$. To prove that $L$ and $\lim_{x\rightarrow c}f(x)$ are equal, we use the **$\delta-\varepsilon$ proof**:

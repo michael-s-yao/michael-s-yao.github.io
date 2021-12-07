@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 From [last time](/calculus/evaluating-integrals/index.html), we learned a number of formulas for determining the indefinite integral of a particular group of functions:
 
   1. $$\int dx\text{ }x^n=\frac{1}{n+1}x^{n+1}+C\text{ for }n\neq 1$$

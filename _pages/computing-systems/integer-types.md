@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 As in Java, the most intuitive way of declaring a variable as an ```int``` is to simply write something like ```int x = 0```. However, using ```int``` makes no mention of how many bits and bytes that the ```int``` takes up. As we saw in our discussion on bitwise operations and [integer overflow](/computing-systems/bitwise-operations/index.html#integer-overflow), knowing _exactly_ how many bits a particular variable takes up is actually very important. Therefore, it's typically considered better practice to declare explicitly how many bits an integer takes up. We'll discuss how to do so here.
 
 > ## ```inttypes```

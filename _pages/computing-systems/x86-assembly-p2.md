@@ -6,6 +6,11 @@ toc: true
 toc_label: "Contents"
 ---
 
+
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 > ## Registers
 
 Last time, we ended by discussing the sixteen general-purpose registers found on most modern Intel-based computers, shown here:

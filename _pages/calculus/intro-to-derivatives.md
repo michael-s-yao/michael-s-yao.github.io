@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 [Last time](/calculus/limits-and-continuity/index.html), we asked the question of what happens when we want to find the slope of a secant lint between two points $(x, f(x))$ and $(x+h, f(x+h))$ for some parameter $h$. The slope $m$ of this secant line is
 
 $$m=\frac{f(x+h)-f(x)}{h}$$

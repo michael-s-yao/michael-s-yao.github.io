@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 > ## What is Assembly Language?
 
 **Assembly language** is perhaps one of the most low-level programming languages out there. It involves writing instructions for exactly how variables and data types are stored and manipulated by the computer's **central processing unit (CPU)**, which can be thought of as the "brain" of a computer that executes computer instructions.

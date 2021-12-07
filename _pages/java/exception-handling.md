@@ -6,6 +6,10 @@ toc: true
 toc_label: "Contents"
 ---
 
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7416472460612865" crossorigin="anonymous"></script>
+</head>
+
 When constructing our ```LoginInfo``` application from [last time](/java/login-info/index.html), we inevitably came across things like ```FileNotFoundException``` and ```MalformedURLException```, which we handled by throwing in arbitrary ```try```/```catch``` or ```throws``` statements without any real knowledge of what they do. This was to teach us the skill in Java that you don't need to understand all parts of the code in order to make it work. Nonetheless, these "arbitrary" statements are still very important to understand, and are part of a larger topic in Java called _exception handling_.
 
 > ## What is an exception?
