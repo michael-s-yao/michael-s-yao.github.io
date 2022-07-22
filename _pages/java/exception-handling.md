@@ -14,7 +14,7 @@ When constructing our ```LoginInfo``` application from [last time](/java/login-i
 
 > ## What is an exception?
 
-In order to talk about exception handling, we first need to understand what an exception is. To put it simply, an **exception** is essentially a problem or issue that comes up when your Java program is running. This problem isn't something like saying 2+3=4; it's a problem big enough such that if it is left unchecked, it could terminate or pause the entire program. For example, as you can probably tell by the name of these exceptions,
+In order to talk about [exception handling](https://www.scaler.com/topics/java/exception-handling-in-java/), we first need to understand what an exception is. To put it simply, an **exception** is essentially a problem or issue that comes up when your Java program is running. This problem isn't something like saying 2+3=4; it's a problem big enough such that if it is left unchecked, it could terminate or pause the entire program. For example, as you can probably tell by the name of these exceptions,
 
   - ```FileNotFoundException``` is an exception that means that we (or the user) has entered an invalid data file type, a file that cannot be found, or something related to file issues.
   - ```MalformedURLException``` is an exception that means the URL given is not a valid URL.
