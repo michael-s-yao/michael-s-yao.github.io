@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en-US" style="scroll-behavior: smooth;">
+  <head>
+    <title>Michael Yao - Homepage</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Google Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-173081175-1', 'auto');
+      ga('send', 'pageview', location.pathname);
+    </script>
+    <!-- End Google Analytics -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap" rel="stylesheet">
+    <!-- Insert any fonts here. -->
+    <script src="https://use.fontawesome.com/cefbebdc70.js"></script>
+    <link rel="stylesheet" type="text/css" href="public/css/index.css">
+    <meta name="theme-color" content="#f1f1f1;">
+  </head>
+
+  <body>
+    <div class="light-dark-toggle"><i id="light-dark-toggle-icon" class="fa fa-moon-o"></i></div>
+    <main>
+      <nav>
+        <a href="/">About</a>
+        <a href="#changelog">Publications</a>
+        <a href="#contact">Contact</a>
+        <a href="#outreach">Outreach</a>
+      </nav>
+      <div id="nn-animation"><div id="3d-graph"></div></div>
+      <h1>Michael Yao is an MD-PhD candidate at the University of Pennsylvania leveraging AI to improve human health.</h1>
+      <a href="public/cv.pdf" download="yao-michael-cv.pdf">
+        <button id="cv-button">Curriculum Vitae</button>
+      </a>
+      <div id="status">
+        <label>Currently</label>
+        <h2>ML graduate student</h2>
+      </div>
+
+      <div class="two-box-intro">
+        <div>
+          <p>I am an MD-PhD candidate advised by <a href="https://trustml.github.io" target="_blank">Osbert Bastani</a> and <a href="https://picsl.upenn.edu" target="_blank">James Gee</a>. My research focuses on <b>trustworthiness</b> and <b>robustness</b> for deep learning, offline optimization, meta-learning, and bandit problem formulations. I am broadly interested in developing methods that leverage prior knowledge and data to help algorithms better generalize to new distributions. I explore these problems in the setting of generative design, medical imaging, and reducing health disparities.</p>
+          <p>I am grateful to be supported by an <a href="https://reporter.nih.gov/project-details/11070138" target="_blank">NIH F30 NRSA Fellowship</a> from the National Institute on Minority Health and Health Disparities (NIMHD).</p>
+        </div>
+        <img id="headshot" src="public/images/yao-michael-headshot-square.jpg" alt="Michael Yao Headshot"/>
+      </div>
+      <h2><span class="monospace prefix">self.</span>Timeline</h2>
+      <h3 class="monospace docstring">"""Some professional and life milestones."""</h3>
+      <div id="timeline"></div>
+
+      <h2><span class="monospace prefix">self.</span>Changelog</h2>
+      <h3 class="monospace docstring">"""Recent news and publications."""</h3>
+      <div id="changelog"></div>
+
+      <h2 id="contact"><span class="monospace prefix">self.</span>Handles</h2>
+      <h3 class="monospace docstring">"""Where to find me on the internet."""</h3>
+      <div class="socials">
+        <div
+          class="social-item l"
+          onclick="window.open('https://www.linkedin.com/in/michael-s-yao/', 'new_window');"
+        >
+          <i class="fa fa-linkedin-square social-icon"></i><p>michael-s-yao</p>
+        </div>
+        <div
+          class="social-item m"
+          onclick="window.open('https://github.com/michael-s-yao', 'new_window');"
+        >
+          <i class="fa fa-github social-icon"></i><p>@michael-s-yao</p>
+        </div>
+        <div
+          class="social-item r"
+          onclick="window.open('https://twitter.com/michael_s_yao', 'new_window');"
+        >
+          <i class="fa fa-twitter social-icon"></i><p>@michael_s_yao</p>
+        </div>
+      </div>
+      <div class="socials">
+        <div class="social-item l">
+          <i class="fa fa-envelope social-icon"></i>
+          <p>
+            michael [dot] yao [at] pennmedicine [dot] upenn [dot] edu
+          </p>
+        </div>
+        <div
+          class="social-item r"
+          onclick="window.open('https://scholar.google.com/citations?user=jz9IC2QAAAAJ&hl=en', 'new_window');"
+        >
+          <i class="fa fa-graduation-cap social-icon"></i><p>Google Scholar</p>
+        </div>
+      </div>
+
+      <h2><span class="monospace prefix">self.</span>Teaching</h2>
+      <h3 class="monospace docstring">"""Mentorship and education efforts."""</h3>
+      <div id="teaching"></div>
+
+      <h2 id="outreach"><span class="monospace prefix">self.</span>Outreach</h2>
+      <p>I am currently working as Vice Chair of the Technology Committee for the <a href="https://www.physicianscientists.org" target="_blank">American Physician Scientists Association (APSA)</a>. I am also a Co-Director of Data Science and AI for <a href="http://ai.mdplus.community" target="_blank">MDplus</a>. At Penn, I am involved in a number of mentorship and outreach initiatives, and serve on the Admissions Committee for the School of Medicine.</p>
+
+      <p>During college, I served as editor-in-chief of the <a href="https://curj.caltech.edu" target="_blank">Caltech Undergraduate Research Journal</a>, and was a volunteer tutor for Caltech students through the Deans&apos; tutoring program and for local high school students through the <a href="https://www.caltechy.org/what-we-do" target="_blank">RISE Tutoring Program</a>. I also led initiativees to improve the freshman core curriculum while serving on the Caltech <a href="https://sites.google.com/site/arccaltech" target="_blank">Academics and Research Committee</a> and was a former student ambassador for the <a href="https://sfp.caltech.edu/undergraduate-research/programs/surf" target="_blank">Summer Undergraduate Research Program</a>.</p>
+
+      <p>I am actively involved in Penn&apos;s interview and recruitment process for medical school admissions. I set aside half an hour a week to meet with current students for pro bono feedback on applications and general college advice, especially for underrepresented students from minority backgrounds. If you&apos;re interested in connecting, feel free to reach out to me via email or Twitter.</p>
+    </main>
+    <footer>
+      <p>&#169;<span id="year"></span> Michael Yao. All rights reserved.</p>
+    </footer>
+    <script src="/static/styles/js/init.js"></script>
+    <script type="text/javascript" src="public/js/cv.js"></script>
+    <script src="//unpkg.com/3d-force-graph"></script>
+    <script type="module" src="public/js/nn-animation.js"></script>
+    <script type="text/javascript" src="public/js/color.js"></script>
+    <script type="text/javascript" src="public/js/footer.js"></script>
+  </body>
+</html>
