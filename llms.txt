@@ -1,0 +1,60 @@
+# Michael Yao - Homepage
+
+## About
+
+Michael Yao is an MD-PhD candidate at the University of Pennsylvania leveraging AI to improve human health.
+
+Currently: ML graduate student
+
+I am an MD-PhD candidate advised by [Osbert Bastani](https://trustml.github.io) and [James Gee](https://picsl.upenn.edu). My research focuses on **trustworthiness** and **robustness** for deep learning, offline optimization, meta-learning, and bandit problem formulations. I am broadly interested in developing methods that leverage prior knowledge and data to help algorithms better generalize to new distributions. I explore these problems in the setting of generative design, medical imaging, and reducing health disparities.
+
+I am grateful to be supported by an [NIH F30 NRSA Fellowship](https://reporter.nih.gov/project-details/11070138) from the National Institute on Minority Health and Health Disparities (NIMHD).
+
+  - 2025 | Research Scientist Intern at [Genentech](https://www.gene.com/scientists/our-scientists/braid) Generative AI
+  - 2024 | VC Fellow at [25madison Health Studio](https://www.25madison.com/health)
+  - 2023 | AI Clinical Fellow at [Glass Health](https://glass.health)
+  - 2022 | Research Scientist Intern at [Microsoft Research](https://www.microsoft.com/en-us/research) Health Futures
+  - 2021 | Software Engineering Intern at [Hyperfine Research](https://hyperfine.io)
+  - 2021 | Graduated salutatorian from Caltech, BS Applied Physics
+
+## Publications
+
+  - 2025 | How can we ensure that offline optimization methods propose both high-quality *and* diverse sets of designs? Learn more about how DynAMO answers this question in our new [preprint]('http://arxiv.org/abs/2501.18768')!
+  - 2025 | New [editorial](https://doi.org/10.1148/radiol.243659) on using LLMs for radiology report parsing now out in RSNA Radiology.
+  - 2024 | Can generative language models like ChatGPT help clinicians order diagnostic imaging studies in the ED? Check out our new [preprint](https://arxiv.org/abs/2409.19177v2) to learn more!
+  - 2024 | Can we reliably optimize against surrogate objectives in offline optimization problems? Learn more about our method for [Generative Adversarial Model-Based Optimization (GAMBO)](https://arxiv.org/abs/2402.06532) accepted to NeurIPS 2024. Check out our work in Vancouver!
+  - 2024 | Grateful to have contributed to our NeurIPS Spotlight work on [Knowledge Bottlenecks](https://yueyang1996.github.io/knobo/) for improved interpretability and robustness of ML for healthcare, led by the fabulous [Yue Yang](https://yueyang1996.github.io/)!
+  - 2024 | Check out our new review paper on [AI deployment strategies for clinical radiology](https://pubs.rsna.org/doi/10.1148/radiol.223170) now out in RSNA Radiology."
+  - 2023 | Excited to share our new work on [predicting diabetes risk from abdominal CT scans](https://link.springer.com/chapter/10.1007/978-3-031-46005-0_5) in Proc PRIME MICCAI.
+  - 2022 | What are the limits of machine learning methods for solving inverse problems such as MRI image reconstruction? Check out our work on [AI for accelerated MRI](https://arxiv.org/abs/2208.12835) in Proc ML4H.
+
+## Contact
+
+  - [LinkedIn](https://www.linkedin.com/in/michael-s-yao)
+  - [GitHub](https://github.com/michael-s-yao)
+  - [X (Twitter)](https://twitter.com/michael_s_yao)
+  - [Email [no spam]](michael [dot] yao [at] pennmedicine [dot] upenn [dot] edu)
+  - [Google Scholar](https://scholar.google.com/citations?user=jz9IC2QAAAAJ&hl=en)
+
+## Teaching
+
+  - 2025 | **TA**: Distributed Systems (CIS 5050, University of Pennsylvania)
+  - 2024 | **TA**: Principles of Deep Learning (ESE 5460, University of Pennsylvania)
+  - 2024 | **TA**: Imaging Informatics (EAS 5850, University of Pennsylvania)
+  - 2024 | **Head TA**: Health, Healthcare and Technology (CIS 7000, University of Pennsylvania)
+  - 2024 | **TA**: Diagnostic Ultrasound for Medical Students (University of Pennsylvania SOM)
+  - 2024 | **TA**: Pre-Clinical Medicine (University of Pennsylvania SOM)
+  - 2021 | **Head TA**: Applied Mathematics (ACM 95a, Caltech)
+  - 2020 | **TA**: Graduate Classical Physics (Ph 106a, Caltech)
+  - 2020 | **TA**: Applied Mathematics (ACM 95b, Caltech)
+  - 2020 | **TA**: Quantum Physics (Ph 12b, Caltech)
+  - 2019 | **TA**: Operating Systems (CS 24, Caltech)
+  - 2019 | **TA**: Waves and Oscillations (Ph 12a, Caltech)
+  - 2019 | **TA**: Electrodynamics and Magnetism (Ph 1c, Caltech)
+  - 2019 | **TA**: Special Relativity and Electrostatics (Ph 1b, Caltech)
+
+## Outreach
+
+I designed and run a short course on the [fundamentals of ML for medical students](https://eamc-penn.github.io). I have previously served as Vice Chair of the Technology Committee for the [American Physician Scientists Association (APSA)](https://www.physicianscientists.org) and as Director of Data Science and AI for [MDplus](http://ai.mdplus.community). At Penn, I am involved in a number of mentorship and outreach initiatives and have served on both the Admissions Committee and AI Curriculum Steering Committee for the School of Medicine.
+
+I am actively involved in Penn's interview and recruitment process for medical school admissions. I set aside half an hour a week to meet with current students for pro bono feedback on applications and general college advice, especially for underrepresented students from minority backgrounds. If you're interested in connecting, feel free to reach out to me via email or Twitter.

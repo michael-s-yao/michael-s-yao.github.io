@@ -34,12 +34,6 @@ all_history = [
   ),
   CVEvent.create(
     2021,
-    "MD-PhD candidate at the University of Pennsylvania, " +
-    "<a href='https://interfaces.seas.upenn.edu'>HHMI-NIBIB Interfaces</a> " +
-    "graduate student"
-  ),
-  CVEvent.create(
-    2021,
     "Software Engineering Intern at " +
     "<a href='https://hyperfine.io'>Hyperfine Research</a>"
   ),
@@ -74,7 +68,7 @@ all_changelog = [
     2024,
     "Can we reliably optimize against surrogate objectives in offline " +
     "optimization problems? Learn more about our method for " +
-    "<a href='http://arxiv.org/abs/2402.06532'>Generative Adversarial " +
+    "<a href='https://arxiv.org/abs/2402.06532'>Generative Adversarial " +
     "Model-Based Optimization (GAMBO)<i class='fa fa-link' aria-hidden='true'>" +
     "</i></a> accepted to NeurIPS 2024. Check out our work in Vancouver!"
   ),
