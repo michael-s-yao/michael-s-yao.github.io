@@ -17,6 +17,11 @@ all_history = [
     "Genentech</a> Generative AI"
   ),
   CVEvent.create(
+    2025,
+    "Human Frontier Collective Intern at " +
+    "<a href='https://lastexam.ai'>Scale AI</a>"
+  ),
+  CVEvent.create(
     2024,
     "VC Fellow at " +
     "<a href='https://www.25madison.com/health'>25madison Health Studio</a>"
