@@ -11,6 +11,7 @@ I am an MD-PhD candidate advised by [Osbert Bastani](https://trustml.github.io) 
 I am grateful to be supported by an [NIH F30 NRSA Fellowship](https://reporter.nih.gov/project-details/11070138) from the National Institute on Minority Health and Health Disparities (NIMHD).
 
   - 2025 | Research Scientist Intern at [Genentech](https://www.gene.com/scientists/our-scientists/braid) Generative AI
+  - 2025 | Human Frontier Collective Intern at [Scale AI](https://hfc.scale.com)
   - 2024 | VC Fellow at [25madison Health Studio](https://www.25madison.com/health)
   - 2023 | AI Clinical Fellow at [Glass Health](https://glass.health)
   - 2022 | Research Scientist Intern at [Microsoft Research](https://www.microsoft.com/en-us/research) Health Futures
@@ -20,7 +21,9 @@ I am grateful to be supported by an [NIH F30 NRSA Fellowship](https://reporter.n
 ## Publications
 
   - 2025 | How can we ensure that offline optimization methods propose both high-quality *and* diverse sets of designs? Learn more about how DynAMO answers this question in our new [preprint]('http://arxiv.org/abs/2501.18768')!
+  - 2025 | Excited to share our work in Nature Communications on [multimodal concept bottleneck models](https://www.nature.com/articles/s41467-025-58801-7) for interpretable eye cancer diagnostics, led by the incredible [Yifan Wu](https://yifannnwu.github.io)!
   - 2025 | New [editorial](https://doi.org/10.1148/radiol.243659) on using LLMs for radiology report parsing now out in RSNA Radiology.
+  - 2025 | Can datathons be effective venues for teaching AI to med students? Check out our work on [trainee-led datathons](https://mededu.jmir.org/2025/1/e63602) now out in JMIR Medical Education!
   - 2024 | Can generative language models like ChatGPT help clinicians order diagnostic imaging studies in the ED? Check out our new [preprint](https://arxiv.org/abs/2409.19177v2) to learn more!
   - 2024 | Can we reliably optimize against surrogate objectives in offline optimization problems? Learn more about our method for [Generative Adversarial Model-Based Optimization (GAMBO)](https://arxiv.org/abs/2402.06532) accepted to NeurIPS 2024. Check out our work in Vancouver!
   - 2024 | Grateful to have contributed to our NeurIPS Spotlight work on [Knowledge Bottlenecks](https://yueyang1996.github.io/knobo/) for improved interpretability and robustness of ML for healthcare, led by the fabulous [Yue Yang](https://yueyang1996.github.io/)!

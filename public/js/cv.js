@@ -19,7 +19,7 @@ all_history = [
   CVEvent.create(
     2025,
     "Human Frontier Collective Intern at " +
-    "<a href='https://lastexam.ai'>Scale AI</a>"
+    "<a href='https://hfc.scale.com'>Scale AI</a>"
   ),
   CVEvent.create(
     2024,
@@ -58,9 +58,24 @@ all_changelog = [
   ),
   CVEvent.create(
     2025,
+    "Excited to share our work in Nature Communications on <a " +
+    "href='https://www.nature.com/articles/s41467-025-58801-7'>multimodal " +
+    "concept bottleneck models<i class='fa fa-link' aria-hidden='true'></i></a> " +
+    "for interpretable eye cancer diagnostics, led by the incredible " +
+    "<a href='https://yifannnwu.github.io'>Yifan Wu</a>!"
+  ),
+  CVEvent.create(
+    2025,
     "New <a href='https://doi.org/10.1148/radiol.243659'>editorial<i " +
     "class='fa fa-link' aria-hidden='true'></i></a> on using LLMs " +
     "for radiology report parsing now out in RSNA Radiology."
+  ),
+  CVEvent.create(
+    2025,
+    "Can datathons be effective venues for teaching AI to med students? " +
+    "Check out our work on <a href='https://mededu.jmir.org/2025/1/e63602'>" +
+    "trainee-led datathons<i class='fa fa-link' aria-hidden='true'></i></a> " +
+    "now out in JMIR Medical Education!"
   ),
   CVEvent.create(
     2024,
@@ -80,9 +95,10 @@ all_changelog = [
   CVEvent.create(
     2024,
     "Grateful to have contributed to our NeurIPS Spotlight work on <a " +
-    "href='https://yueyang1996.github.io/knobo/'>Knowledge Bottlenecks</a> " +
-    "for improved interpretability and robustness of ML for healthcare, " +
-    "led by the fabulous <a href='https://yueyang1996.github.io/'>Yue Yang</a>!"
+    "href='https://yueyang1996.github.io/knobo/'>Knowledge Bottlenecks<i class=" +
+    "'fa fa-link' aria-hidden='true'></a> for improved interpretability and " +
+    "robustness of ML for healthcare, led by the fabulous " +
+    "<a href='https://yueyang1996.github.io/'>Yue Yang</a>!"
   ),
   CVEvent.create(
     2024,
