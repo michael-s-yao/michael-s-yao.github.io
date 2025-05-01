@@ -51,10 +51,9 @@ all_changelog = [
   CVEvent.create(
     2025,
     "How can we ensure that offline optimization methods propose both " +
-    "high-quality <em>and</em> diverse sets of designs? Learn more " +
-    "about how DynAMO answers this question in our new <a href=" +
-    "'http://arxiv.org/abs/2501.18768'>preprint<i class='fa fa-link' " +
-    "aria-hidden='true'></i></a>!"
+    "high-quality <em>and</em> diverse sets of designs? Learn more about " +
+    "DynAMO in our new <a href='http://arxiv.org/abs/2501.18768'>paper" +
+    "<i class='fa fa-link' aria-hidden='true'></i></a> accepted to ICML 2025!"
   ),
   CVEvent.create(
     2025,
