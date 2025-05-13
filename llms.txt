@@ -4,6 +4,8 @@
 
 Michael Yao is an MD-PhD candidate at the University of Pennsylvania leveraging AI to improve human health.
 
+[CV](https://www.michaelsyao.com/public/cv.pdf)
+
 Currently: ML graduate student
 
 I am an MD-PhD candidate advised by [Osbert Bastani](https://trustml.github.io) and [James Gee](https://picsl.upenn.edu). My research focuses on **trustworthiness** and **robustness** for deep learning, offline optimization, meta-learning, and bandit problem formulations. I am broadly interested in developing methods that leverage prior knowledge and data to help algorithms better generalize to new distributions. I explore these problems in the setting of generative design, medical imaging, and reducing health disparities.
@@ -20,7 +22,7 @@ I am grateful to be supported by an [NIH F30 NRSA Fellowship](https://reporter.n
 
 ## Publications
 
-  - 2025 | How can we ensure that offline optimization methods propose both high-quality *and* diverse sets of designs? Learn more about how DynAMO answers this question in our new [preprint]('http://arxiv.org/abs/2501.18768')!
+  - 2025 | How can we ensure that offline optimization methods propose both high-quality *and* diverse sets of designs? Learn more about DynAMO in our new [paper]('http://arxiv.org/abs/2501.18768') accepted to ICML 2025!
   - 2025 | Excited to share our work in Nature Communications on [multimodal concept bottleneck models](https://www.nature.com/articles/s41467-025-58801-7) for interpretable eye cancer diagnostics, led by the incredible [Yifan Wu](https://yifannnwu.github.io)!
   - 2025 | New [editorial](https://doi.org/10.1148/radiol.243659) on using LLMs for radiology report parsing now out in RSNA Radiology.
   - 2025 | Can datathons be effective venues for teaching AI to med students? Check out our work on [trainee-led datathons](https://mededu.jmir.org/2025/1/e63602) now out in JMIR Medical Education!
