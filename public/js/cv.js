@@ -95,8 +95,8 @@ all_changelog = [
     2024,
     "Grateful to have contributed to our NeurIPS Spotlight work on <a " +
     "href='https://yueyang1996.github.io/knobo/'>Knowledge Bottlenecks<i class=" +
-    "'fa fa-link' aria-hidden='true'></a> for improved interpretability and " +
-    "robustness of ML for healthcare, led by the fabulous " +
+    "'fa fa-link' aria-hidden='true'></i></a> for improved interpretability " +
+    "and robustness of ML for healthcare, led by the fabulous " +
     "<a href='https://yueyang1996.github.io/'>Yue Yang</a>!"
   ),
   CVEvent.create(
