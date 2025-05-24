@@ -8,7 +8,7 @@ Michael Yao is an MD-PhD candidate at the University of Pennsylvania leveraging 
 
 Currently: ML graduate student
 
-I am an MD-PhD candidate advised by [Osbert Bastani](https://trustml.github.io) and [James Gee](https://picsl.upenn.edu). My research focuses on **trustworthiness** and **robustness** for deep learning, offline optimization, meta-learning, and bandit problem formulations. I am broadly interested in developing methods that leverage prior knowledge and data to help algorithms better generalize to new distributions. I explore these problems in the setting of generative design, medical imaging, and reducing health disparities.
+I am an MD-PhD candidate advised by [Osbert Bastani](https://trustml.github.io) and [James Gee](https://picsl.upenn.edu). My research focuses on **trustworthy machine learning** and how we can reliably use ML systems under distribution shift. I am interested in intelligently leveraging prior knowledge and data to help algorithms better generalize to new distributions. I explore these problems in the setting of healthcare and AI4Science.
 
 I am grateful to be supported by an [NIH F30 NRSA Fellowship](https://reporter.nih.gov/project-details/11070138) from the National Institute on Minority Health and Health Disparities (NIMHD).
 
