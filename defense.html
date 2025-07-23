@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>PhD Dissertation Defense</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Google Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-173081175-1', 'auto');
+      ga('send', 'pageview', location.pathname);
+    </script>
+    <!-- End Google Analytics -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap" rel="stylesheet">
+    <!-- Insert any fonts here. -->
+    <script src="https://use.fontawesome.com/cefbebdc70.js"></script>
+    <link rel="stylesheet" type="text/css" href="public/css/index.css">
+    <link rel="stylesheet" type="text/css" href="public/css/defense.css">
+    <meta name="theme-color" content="#f1f1f1;">
+  </head>
+
+  <body>
+    <div class="light-dark-toggle"><i id="light-dark-toggle-icon" class="fa fa-moon-o"></i></div>
+    <main>
+      <nav>
+        <a href="/">About Me</a>
+        <a href="https://scholar.google.com/citations?user=jz9IC2QAAAAJ&hl=en" target="_blank">Publications</a>
+        <a href="mailto:michael.yao@pennmedicine.upenn.edu">Contact</a>
+      </nav>
+
+      <h1 style="text-align: center;margin: 8ex auto 4pt auto;font-size: 24px;font-weight: 400;">Distributionally Robust Machine Intelligence</h1>
+      <h1 style="text-align: center;margin: 0 auto 1ex auto;font-size: 20px;">for Medicine and Scientific Discovery</h1>
+      <h1 style="text-align: center;margin: 2ex auto 4ex auto;font-size: 15px;">Michael Yao&emsp;|&emsp;PhD Dissertation Defense</h1>
+
+      <div class="socials">
+        <div
+          class="social-item l"
+          onclick="window.open('https://calendar.google.com/calendar/render?action=TEMPLATE&text=Michael+Yao+PhD+Dissertation+Defense&details=Zoom+link:+https://pennmedicine.zoom.us/j/5542761067&location=AGH+414&trp=false&dates=20250905T110000/20250905T130000&ctz=America/New_York', 'new_window');"
+        >
+        <i class="fa fa-calendar-plus-o social-icon" style="font-size: 18px;"></i><p><b>Sep 5, 2025 | 11 am EDT</b><br>Add to Calendar</p>
+        </div>
+        <div
+          class="social-item m"
+          onclick="window.open('https://www.google.com/maps/dir/?api=1&destination=39.954478,-75.191193', 'new_window');"
+        >
+          <i class="fa fa-map-marker social-icon" style="font-size: 20px;"></i><p><b>AGH 414</b><br>Get Directions</p>
+        </div>
+        <div
+          class="social-item r"
+          onclick="window.open('https://pennmedicine.zoom.us/j/5542761067', 'new_window');"
+        >
+        <i class="fa fa-video-camera social-icon" style="font-size: 17px;"></i><p><b>Zoom Link</b><br>554 276 1067</p>
+        </div>
+      </div>
+
+      <p style="text-align: center;margin: 20px auto 0 auto;"><b><u>Advisors</u>:</b> <a href="https://obastani.github.io/" target="_blank">Osbert Bastani</a> and <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p10656" target="_blank">James Gee</a></p>
+      <p style="text-align: center;margin: 0 auto 2ex auto;"><b><u>Committee Members</u>:</b> <a href="https://www.kevinbjohnsonmd.net/" target="_blank">Kevin Johnson</a> (chair), <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8948200" target="_blank">Dylan Tisdall</a>, <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p4501477" target="_blank">Walter Witschey</a>, and <a href="https://www.cis.upenn.edu/~myatskar/" target="_blank">Mark Yatskar</a></p>
+
+      <form autocomplete="off" id="rsvp-form">
+        <hr style="color: var(--FONT-COLOR);border: 0.5px solid var(--FONT-COLOR);margin: 4ex auto 0 auto;">
+        <p style="font-weight: 400;margin-bottom: 0;font-size: 18px;">RSVP</p>
+        <p style="opacity: 0.7;margin-top: 0;"><em>Optional, but helps me plan for food and beverages :)</em></p>
+        <label for="email" style="margin-right: 1.5ex;font-weight: 400;">Email:</label><input type="email" id="email" name="email" required placeholder="john@appleseed.com" /><br><br>
+
+        <p style="margin-bottom: 0;display: inline;margin-right: 2ex;font-weight: 400;">I'm attending:</p>
+        <input type="radio" id="in-person" name="attendance" value="In Person" required />
+        <label for="in-person" style="margin-right: 2ex;">In Person</label>
+        <input type="radio" id="virtual" name="attendance" value="Virtual" required />
+        <label for="virtual" style="margin-right: 2ex;">Virtual</label>
+        <input type="radio" id="deciding" name="attendance" value="Still Deciding" required />
+        <label for="deciding" style="margin-right: 2ex;">Still Deciding</label><br>
+
+        <input type="text" id="last-name" name="last-name" />
+        <button id="submit" type="submit">Submit</button>
+        <p id="complete">Thanks for your RSVP!</p>
+        <hr style="color: var(--FONT-COLOR);border: 0.5px solid var(--FONT-COLOR);margin: 3ex auto 2ex auto;">
+        <iframe id="gform-iframe" name="gform-iframe" style="display: none;"></iframe>
+      </form>
+
+      <div id="plain-language-summary">
+        <p style="margin-bottom: 2px;"><b>Plain Language Summary.</b>&emsp;Machine learning (ML) models can help us solve complex problems&mdash;including those in medicine and science. However, ML models don't always work well when used with new groups of patients or in different lab settings&mdash;and sometimes, they can fail in <em>serious ways</em>. My research focuses on how we can build ML systems that are <b>safer</b> and <b>more reliable</b>. We achieve this by:</p>
+        <ol>
+          <li>designing models that mimic how humans think and make decisions; and</li>
+          <li>learning when and where we can trust model predictions.</li>
+        </ol>
+        <p style="margin-top: 2px;">We show how these techniques can help us better solve real-world problems in both <b>medicine</b> and <b>the lab</b>.</p>
+      </div>
+
+      <hr style="color: var(--FONT-COLOR);border: 0.5px solid var(--FONT-COLOR);margin: 2ex auto">
+
+      <div id="abstract">
+        <p><b>Abstract.</b>&emsp;Machine learning systems are becoming increasingly adopted in high-stakes applications, including clinical medicine and scientific discovery. In these settings, the predictions made by learned algorithms can have profound consequences. While modern machine learning models have achieved impressive empirical performance, they often behave unpredictably outside their training distribution, raising concerns about their reliability, fairness, and safety. These limitations are especially pronounced in domains where failure can be costly or irreversible, such as healthcare and scientific discovery. As a result, there is a growing need for AI systems that are not only performant, but also <b>safe</b> and <b>generalizable</b> when faced with new, diverse, and unforeseen inputs in the wild.</p>
+        <p>This dissertation investigates how we can design such ML systems to make reliable predictions across the range of inputs they might encounter in the real-world. We explore this question through two complementary hypotheses. First, by incorporating <b>structured priors</b> generated from natural language and domain knowledge of biological systems directly into model architectures, we can build systems that are more generalizable. We show how such ML systems that are interpretable-by-design are better aligned with human reasoning to solve challenging domain-specific tasks. Second, we show how leveraging <b>adversarial supervision</b> from auxiliary neural networks can help us estimate when and where black-box models predictions can be trusted. We demonstrate how this framework can be readily adapted to solve a wide range of optimization problems in medicine and science. In summary, this dissertation provides a principled framework for making machine learning systems more aligned, robust, and actionable in safety-critical biomedical applications.</p>
+      </div>
+
+      <!-- <a href="#" download="#">
+        <button id="cv-button" style="margin: 4ex auto 0 auto;display: block;">Read My Thesis</button>
+      </a> -->
+    </main>
+
+    <footer>
+      <p>&#169;<span id="year"></span> Michael Yao. All rights reserved.</p>
+    </footer>
+
+    <script>
+      /* const plsInput = document.getElementById("plain-language-summary-toggle");
+      const pls = document.getElementById("plain-language-summary");
+      const abs = document.getElementById("abstract");
+      plsInput.addEventListener("change", () => {
+        pls.style.display = plsInput.checked ? "block" : "none";
+        abs.style.display = plsInput.checked ? "none" : "block";
+      }); */
+
+      const LOCAL_FORM_ID = "rsvp-form";
+      const localForm = document.getElementById(LOCAL_FORM_ID);
+      const IFRAME_NAME = "gform-iframe";
+      const iframe = document.getElementById(IFRAME_NAME);
+
+      const GOOGLE_FORM_ID = "1FAIpQLSfL2yvnYoNrAb1j50jG-lWE9ddIt0ugIlAJoBAz2SoCvZcT8A";
+      const GOOGLE_FORM_ACTION = "https://docs.google.com/forms/d/e/" + GOOGLE_FORM_ID + "/formResponse";
+      const ENTRY_EMAIL_ID = "entry.80359990";
+      const ENTRY_ATTENDANCE_ID = "entry.494134753";
+
+
+      function getRadioValue(name) {
+        const checked = document.querySelector(`input[name="${name}"]:checked`);
+        return checked ? checked.value : '';
+      }
+
+      localForm.addEventListener("submit", function(e) {
+        e.preventDefault();
+
+        const email = document.getElementById("email").value;
+        const attendance = getRadioValue("attendance");
+        const name = document.getElementById("last-name").value;
+        if (name.length > 0)
+          return;
+
+        const hiddenForm = document.createElement("form");
+        hiddenForm.style.display = "none";
+        hiddenForm.action = GOOGLE_FORM_ACTION;
+        hiddenForm.method = "POST";
+        hiddenForm.target = IFRAME_NAME;
+
+        function addField(name, value) {
+          const input = document.createElement("input");
+          input.type = "hidden";
+          input.name = name;
+          input.value = value;
+          hiddenForm.appendChild(input);
+        }
+
+        addField(ENTRY_EMAIL_ID, email);
+        addField(ENTRY_ATTENDANCE_ID, attendance);
+
+        document.body.appendChild(hiddenForm);
+
+        iframe.onload = function() {
+          document.getElementById("complete").style.display = "block";
+          hiddenForm.remove();
+        };
+
+        hiddenForm.submit();
+      });
+
+      document.getElementsByClassName("light-dark-toggle")[0].onclick = function () {
+        var body = document.getElementsByTagName("html")[0];
+
+        if (body.className.includes("dark-theme")) {
+          body.className = "";
+          document.getElementById("light-dark-toggle-icon").className = "fa fa-moon-o";
+        } else {
+          body.className += " dark-theme";
+          document.getElementById("light-dark-toggle-icon").className = "fa fa-sun-o";
+        }
+      }
+    </script>
+    <script type="text/javascript" src="public/js/color.js"></script>
+    <script type="text/javascript" src="public/js/footer.js"></script>
+  </body>
+</html>
