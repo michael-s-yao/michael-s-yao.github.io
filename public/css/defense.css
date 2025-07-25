@@ -84,6 +84,27 @@ li, label, input {
   font-family: var(--FONT);
 }
 
+label.radio-label { margin-right: 2ex; }
+
+#attendance-question {
+  margin-bottom: 0;
+  display: inline;
+  margin-right: 2ex;
+  font-weight: 400;
+}
+
+@media screen and (max-width: 767px) {
+  label.radio-label:after {
+    white-space: pre;
+    content: "\A";
+  }
+
+  #attendance-question {
+    display: block;
+  }
+}
+
+
 #last-name {
   display: none;
 }
