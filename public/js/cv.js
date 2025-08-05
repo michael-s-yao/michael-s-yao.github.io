@@ -50,6 +50,14 @@ all_history = [
 all_changelog = [
   CVEvent.create(
     2025,
+    "Can generative language models like ChatGPT help clinicians order " +
+    "diagnostic imaging studies in the ED? Check out our new <a href=" +
+    "'https://www.nature.com/articles/s43856-025-01061-9'>paper<i " +
+    "class='fa fa-link' aria-hidden='true'></i></a> hot off the press in " +
+    "Communications Medicine to learn more!"
+  ),
+  CVEvent.create(
+    2025,
     "How can we ensure that offline optimization methods propose both " +
     "high-quality <em>and</em> diverse sets of designs? Learn more about " +
     "DynAMO in our new <a href='http://arxiv.org/abs/2501.18768'>paper" +
@@ -75,13 +83,6 @@ all_changelog = [
     "Check out our work on <a href='https://mededu.jmir.org/2025/1/e63602'>" +
     "trainee-led datathons<i class='fa fa-link' aria-hidden='true'></i></a> " +
     "now out in JMIR Medical Education!"
-  ),
-  CVEvent.create(
-    2024,
-    "Can generative language models like ChatGPT help clinicians order " +
-    "diagnostic imaging studies in the ED? Check out our new <a href=" +
-    "'https://arxiv.org/abs/2409.19177v2'>preprint<i class='fa fa-link' " +
-    "aria-hidden='true'></i></a> to learn more!"
   ),
   CVEvent.create(
     2024,
