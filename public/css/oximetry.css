@@ -273,6 +273,10 @@ footer {
   font-size: var(--SMALL);
 }
 
+.dark-theme .question {
+  background-color: #000;
+}
+
 .question > p, .question > ol {
   margin: 0 auto;
   font-size: var(--SMALL);
@@ -295,4 +299,16 @@ footer {
   nav {
     display: none !important;
   }
+}
+
+audio {
+  display: block;
+  width: 100%;
+  margin: 2px auto 16px auto;
+}
+
+audio::-webkit-media-controls-play-button, audio::-webkit-media-controls-panel {
+   background-color: var(--BACKGROUND-COLOR);
+   color: var(--BACKGROUND-COLOR);
+   padding: 0;
 }
