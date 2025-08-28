@@ -286,21 +286,6 @@ footer {
   color: var(--BLUE);
 }
 
-@media print {
-  .light-dark-toggle {
-    display: none !important;
-  }
-
-  main {
-    width: 95%;
-    display: block !important;
-  }
-
-  nav {
-    display: none !important;
-  }
-}
-
 audio {
   display: block;
   width: 100%;
@@ -311,4 +296,22 @@ audio::-webkit-media-controls-play-button, audio::-webkit-media-controls-panel {
    background-color: var(--BACKGROUND-COLOR);
    color: var(--BACKGROUND-COLOR);
    padding: 0;
+}
+
+#audio-label {
+  color: var(--FADED-COLOR);
+  font-size: var(--X-SMALL);
+  margin-bottom: 0;
+  display: block;   
+}
+
+@media print {
+  .light-dark-toggle, nav, audio, #audio-label {
+    display: none !important;
+  }
+
+  main {
+    width: 95%;
+    display: block !important;
+  }
 }

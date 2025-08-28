@@ -63,7 +63,7 @@
       <p style="text-align: center;margin: 20px auto 0 auto;"><b><u>Advisors</u>:</b> <a href="https://obastani.github.io/" target="_blank">Osbert Bastani</a> and <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p10656" target="_blank">James Gee</a></p>
       <p style="text-align: center;margin: 0 auto 2ex auto;"><b><u>Committee Members</u>:</b> <a href="https://www.kevinbjohnsonmd.net/" target="_blank">Kevin Johnson</a> (chair), <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p8948200" target="_blank">Dylan Tisdall</a>, <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p4501477" target="_blank">Walter Witschey</a>, and <a href="https://www.cis.upenn.edu/~myatskar/" target="_blank">Mark Yatskar</a></p>
 
-      <form autocomplete="off" id="rsvp-form">
+      <!-- <form autocomplete="off" id="rsvp-form">
         <hr style="color: var(--FONT-COLOR);border: 0.5px solid var(--FONT-COLOR);margin: 4ex auto 0 auto;">
         <p style="font-weight: 400;margin-bottom: 0;font-size: 18px;">RSVP</p>
         <p style="opacity: 0.7;margin-top: 0;"><em>Optional, but helps me plan for food and beverages :)</em></p>
@@ -82,7 +82,11 @@
         <p id="complete">Thanks for your RSVP!</p>
         <hr style="color: var(--FONT-COLOR);border: 0.5px solid var(--FONT-COLOR);margin: 3ex auto 2ex auto;">
         <iframe id="gform-iframe" name="gform-iframe" style="display: none;"></iframe>
-      </form>
+      </form> -->
+      <a href="public/yao-michael-dissertation.pdf" download="yao-michael-dissertation.pdf">
+        <button id="cv-button" style="margin: 4ex auto 0 auto;display: block;">Read My Thesis</button>
+      </a>
+      <hr style="color: var(--FONT-COLOR);border: 0.5px solid var(--FONT-COLOR);margin: 3ex auto 2ex auto;">
 
       <div id="plain-language-summary">
         <p style="margin-bottom: 2px;"><b>Plain Language Summary.</b>&emsp;Machine learning (ML) models can help us solve complex problems&mdash;including those in medicine and science. However, ML models don't always work well when used with new groups of patients or in different lab settings&mdash;and sometimes, they can fail in <em>serious ways</em>. My research focuses on how we can build ML systems that are <b>safer</b> and <b>more reliable</b>. We achieve this by:</p>
@@ -99,10 +103,6 @@
         <p><b>Abstract.</b>&emsp;Machine learning systems are becoming increasingly adopted in high-stakes applications, including clinical medicine and scientific discovery. In these settings, the predictions made by learned algorithms can have profound consequences. While modern machine learning models have achieved impressive empirical performance, they often behave unpredictably outside their training distribution, raising concerns about their reliability, fairness, and safety. These limitations are especially pronounced in domains where failure can be costly or irreversible, such as healthcare and scientific discovery. As a result, there is a growing need for AI systems that are not only performant, but also <b>safe</b> and <b>generalizable</b> when faced with new, diverse, and unforeseen inputs in the wild.</p>
         <p>This dissertation investigates how we can design such ML systems to make reliable predictions across the range of inputs they might encounter in the real-world. We explore this question through two complementary hypotheses. First, by incorporating <b>structured priors</b> generated from natural language and domain knowledge of biological systems directly into model architectures, we can build systems that are more generalizable. We show how such ML systems that are interpretable-by-design are better aligned with human reasoning to solve challenging domain-specific tasks. Second, we show how leveraging <b>adversarial supervision</b> from auxiliary neural networks can help us estimate when and where black-box models predictions can be trusted. We demonstrate how this framework can be readily adapted to solve a wide range of optimization problems in medicine and science. In summary, this dissertation provides a principled framework for making machine learning systems more aligned, robust, and actionable in safety-critical biomedical applications.</p>
       </div>
-
-      <a href="public/yao-michael-dissertation.pdf" download="yao-michael-dissertation.pdf">
-        <button id="cv-button" style="margin: 4ex auto 0 auto;display: block;">Read My Thesis</button>
-      </a>
     </main>
 
     <footer>
