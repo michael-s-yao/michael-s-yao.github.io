@@ -54,7 +54,10 @@ all_changelog = [
     "diagnostic imaging studies in the ED? Check out our new <a href=" +
     "'https://www.nature.com/articles/s43856-025-01061-9'>paper<i " +
     "class='fa fa-link' aria-hidden='true'></i></a> hot off the press in " +
-    "Communications Medicine to learn more!"
+    "Communications Medicine to learn more! <a href='https://www.auntminnie" +
+    ".com/imaging-informatics/artificial-intelligence/article/15752498/gene" +
+    "rative-ai-improves-clinical-decisionmaking-in-the-ed'>Aunt Minnie " +
+    "article<i class='fa fa-link' aria-hidden='true'></i></a>"
   ),
   CVEvent.create(
     2025,
@@ -98,7 +101,9 @@ all_changelog = [
     "href='https://yueyang1996.github.io/knobo/'>Knowledge Bottlenecks<i class=" +
     "'fa fa-link' aria-hidden='true'></i></a> for improved interpretability " +
     "and robustness of ML for healthcare, led by the fabulous " +
-    "<a href='https://yueyang1996.github.io/'>Yue Yang</a>!"
+    "<a href='https://yueyang1996.github.io/'>Yue Yang</a>! <a href='https://" +
+    "blog.seas.upenn.edu/training-medical-ai-with-knowledge-not-shortcuts/'>" +
+    "Penn press release<i class='fa fa-link' aria-hidden='true'></i></a>"
   ),
   CVEvent.create(
     2024,
@@ -106,20 +111,6 @@ all_changelog = [
     "<a href='https://pubs.rsna.org/doi/10.1148/radiol.223170'>AI " +
     "deployment strategies for clinical radiology<i class='fa fa-link' " +
     "aria-hidden='true'></i></a> now out in RSNA Radiology."
-  ),
-  CVEvent.create(
-    2023,
-    "Excited to share our new work on " +
-    "<a href='https://link.springer.com/chapter/10.1007/978-3-031-46005-0_5'>" +
-    "predicting diabetes risk from abdominal CT scans <i class='fa fa-link' " +
-    "aria-hidden='true'></i></a> in Proc PRIME MICCAI."
-  ),
-  CVEvent.create(
-    2022,
-    "What are the limits of machine learning methods for solving inverse " +
-    "problems such as MRI image reconstruction? Check out our work on " +
-    "<a href='https://arxiv.org/abs/2208.12835'>AI for accelerated MRI " +
-    "<i class='fa fa-link' aria-hidden='true'></i></a> in Proc ML4H."
   )
 ];
 
