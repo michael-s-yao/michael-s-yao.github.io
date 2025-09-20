@@ -12,7 +12,11 @@ const CVEvent = {
 all_history = [
   CVEvent.create(
     2025,
-    "Research Scientist Intern at " +
+    "Received my PhD in Bioengineering and MS in Computer Science from the University of Pennsylvania"
+  ),
+  CVEvent.create(
+    2025,
+    "ML Scientist Intern at " +
     "<a href='https://www.gene.com/scientists/our-scientists/braid'>" +
     "Genentech</a> Generative AI"
   ),

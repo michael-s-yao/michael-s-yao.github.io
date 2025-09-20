@@ -6,12 +6,13 @@ Michael Yao is an MD-PhD candidate at the University of Pennsylvania leveraging 
 
 [CV](https://www.michaelsyao.com/public/cv.pdf)
 
-Currently: ML graduate student
+Currently: Medical student
 
-I am an MD-PhD candidate advised by [Osbert Bastani](https://trustml.github.io) and [James Gee](https://picsl.upenn.edu). My research focuses on **trustworthy machine learning** and how we can reliably use ML systems under distribution shift. I am interested in intelligently leveraging prior knowledge and data to help algorithms better generalize to new distributions. I explore these problems in the setting of healthcare and AI4Science.
+I am an MD-PhD candidate at the University of Pennsylvania. My research focuses on **trustworthy machine learning** and how we can reliably use ML systems under distribution shift. I am interested in intelligently leveraging prior knowledge and data to help algorithms better generalize to new distributions. I explore these problems in the setting of healthcare and AI4Science. I am grateful to be have been advised by [Osbert Bastani](https://trustml.github.io) and [James Gee](https://picsl.upenn.edu) during my PhD.
 
-I am grateful to be supported by an [NIH F30 NRSA Fellowship](https://reporter.nih.gov/project-details/11070138) from the National Institute on Minority Health and Health Disparities (NIMHD).
+I am grateful to be supported by an [NIH F30 NRSA Fellowship](https://reporter.nih.gov/project-details/11194234) from the National Institute on Minority Health and Health Disparities (NIMHD).
 
+  - 2025 | Received my PhD in Bioengineering and MS in Computer Science from the University of Pennsylvania
   - 2025 | Research Scientist Intern at [Genentech](https://www.gene.com/scientists/our-scientists/braid) Generative AI
   - 2025 | Human Frontier Collective Intern at [Scale AI](https://hfc.scale.com)
   - 2024 | VC Fellow at [25madison Health Studio](https://www.25madison.com/health)
@@ -22,6 +23,7 @@ I am grateful to be supported by an [NIH F30 NRSA Fellowship](https://reporter.n
 
 ## Publications
 
+  - 2025 | Can generative language models like ChatGPT help clinicians order diagnostic imaging studies in the ED? Check out our new [paper](https://www.nature.com/articles/s43856-025-01061-9) hot off the press in Communications Medicine to learn more! [Aunt Minnie article](https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15752498/gene)
   - 2025 | How can we ensure that offline optimization methods propose both high-quality *and* diverse sets of designs? Learn more about DynAMO in our new [paper]('http://arxiv.org/abs/2501.18768') accepted to ICML 2025!
   - 2025 | Excited to share our work in Nature Communications on [multimodal concept bottleneck models](https://www.nature.com/articles/s41467-025-58801-7) for interpretable eye cancer diagnostics, led by the incredible [Yifan Wu](https://yifannnwu.github.io)!
   - 2025 | New [editorial](https://doi.org/10.1148/radiol.243659) on using LLMs for radiology report parsing now out in RSNA Radiology.
@@ -30,8 +32,6 @@ I am grateful to be supported by an [NIH F30 NRSA Fellowship](https://reporter.n
   - 2024 | Can we reliably optimize against surrogate objectives in offline optimization problems? Learn more about our method for [Generative Adversarial Model-Based Optimization (GAMBO)](https://arxiv.org/abs/2402.06532) accepted to NeurIPS 2024. Check out our work in Vancouver!
   - 2024 | Grateful to have contributed to our NeurIPS Spotlight work on [Knowledge Bottlenecks](https://yueyang1996.github.io/knobo/) for improved interpretability and robustness of ML for healthcare, led by the fabulous [Yue Yang](https://yueyang1996.github.io/)!
   - 2024 | Check out our new review paper on [AI deployment strategies for clinical radiology](https://pubs.rsna.org/doi/10.1148/radiol.223170) now out in RSNA Radiology."
-  - 2023 | Excited to share our new work on [predicting diabetes risk from abdominal CT scans](https://link.springer.com/chapter/10.1007/978-3-031-46005-0_5) in Proc PRIME MICCAI.
-  - 2022 | What are the limits of machine learning methods for solving inverse problems such as MRI image reconstruction? Check out our work on [AI for accelerated MRI](https://arxiv.org/abs/2208.12835) in Proc ML4H.
 
 ## Contact
 
