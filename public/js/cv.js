@@ -54,6 +54,13 @@ all_history = [
 all_changelog = [
   CVEvent.create(
     2025,
+    "Can language models help us personalize treatment strategies for " +
+    "patients? Learn more about how we can use LLMs for clinical medicine " +
+    "in our new <a href='https://arxiv.org/abs/2509.20975'>preprint<i " +
+    "class='fa fa-link' aria-hidden='true'></i></a>!"
+  ),
+  CVEvent.create(
+    2025,
     "Can generative language models like ChatGPT help clinicians order " +
     "diagnostic imaging studies in the ED? Check out our new <a href=" +
     "'https://www.nature.com/articles/s43856-025-01061-9'>paper<i " +
