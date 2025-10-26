@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LEON Genentech</title>
+    <link rel="stylesheet" type="text/css" href="public/css/leon.css">
+  </head>
+  <body>
+    <div class="header">
+      <div class="header-left">
+        <div class="logo">Electronic Medical Record</div>
+        <div>Chart Review</div>
+      </div>
+      <div>User: Yao, Michael, PhD, MSE | Sign Out</div>
+    </div>
+  
+    <div class="patient-banner">
+      <div class="patient-info">
+        <div class="info-item">
+          <span class="info-label">Patient</span>
+          <span class="info-value">Appleseed, John M</span>
+        </div>
+        <div class="info-item">
+          <span class="info-label">DOB</span>
+          <span class="info-value">05/15/1978 (47 yrs)</span>
+        </div>
+        <div class="info-item">
+          <span class="info-label">MRN</span>
+          <span class="info-value">123456789</span>
+        </div>
+        <div class="info-item">
+          <span class="info-label">Sex</span>
+          <span class="info-value">Male</span>
+        </div>
+        <div class="info-item">
+          <span class="info-label">Length of Stay</span>
+          <span class="info-value">5 days</span>
+        </div>
+      </div>
+    </div>
+  
+    <main>
+      <div class="left-nav">
+        <div class="nav-section">
+          <div class="nav-header">Patient Summary</div>
+          <div class="nav-item active">Overview</div>
+          <div class="nav-item">Problem List</div>
+          <div class="nav-item">Medications</div>
+          <div class="nav-item">Allergies</div>
+        </div>
+        <div class="nav-section">
+          <div class="nav-header">Clinical Documentation</div>
+          <div class="nav-item">History and Physical</div>
+          <div class="nav-item">Progress Notes</div>
+          <div class="nav-item">Consults</div>
+          <div class="nav-item">Procedures</div>
+        </div>
+        <div class="nav-section">
+          <div class="nav-header">Results</div>
+          <div class="nav-item">Labs</div>
+          <div class="nav-item">Imaging</div>
+          <div class="nav-item">Vitals</div>
+        </div>
+        <div class="nav-section">
+          <div class="nav-header">Orders</div>
+          <div class="nav-item">Active Orders</div>
+          <div class="nav-item">Order History</div>
+        </div>
+      </div>
+  
+      <div class="content-area">
+        <div class="section-title">Patient Overview</div>
+              
+        <div class="data-row">
+          <div class="data-label">Attending Physician</div>
+          <div class="data-value">Dr. Sarah Johnson, MD</div>
+        </div>
+              
+        <div class="data-row">
+          <div class="data-label">Chief Complaint</div>
+          <div class="data-value">Lung cancer - adenocarcinoma (Stage IIB)</div>
+        </div>
+  
+        <div style="margin-top: 30px;">
+          <div class="section-title">Active Problems</div>
+          <div class="data-row">
+            <div class="data-label">1.</div>
+            <div class="data-value">Hypertension, Essential (I10)</div>
+          </div>
+          <div class="data-row">
+            <div class="data-label">2.</div>
+            <div class="data-value">Type 2 Diabetes Mellitus (E11.9)</div>
+          </div>
+          <div class="data-row">
+            <div class="data-label">3.</div>
+            <div class="data-value">Hyperlipidemia (E78.5)</div>
+          </div>
+        </div>
+  
+        <div style="margin-top: 30px;">
+          <div class="section-title">Current Medications</div>
+          <div class="data-row">
+            <div class="data-label">Lisinopril</div>
+            <div class="data-value">10 mg oral tablet, once daily</div>
+          </div>
+          <div class="data-row">
+            <div class="data-label">Metformin</div>
+            <div class="data-value">500 mg oral tablet, twice daily with meals</div>
+          </div>
+          <div class="data-row">
+            <div class="data-label">Atorvastatin</div>
+            <div class="data-value">20 mg oral tablet, once daily at bedtime</div>
+          </div>
+        </div>
+  
+        <div style="margin-top: 30px;">
+          <div class="section-title">Allergies</div>
+          <div class="data-row">
+            <div class="data-label">Penicillin</div>
+            <div class="data-value">Reaction: Rash, hives</div>
+          </div>
+        </div>
+  
+        <div style="margin-top: 30px;">
+          <div class="section-title">Recent Vitals</div>
+          <div class="data-row">
+            <div class="data-label">Blood Pressure</div>
+            <div class="data-value">138/86 mmHg</div>
+          </div>
+          <div class="data-row">
+            <div class="data-label">Heart Rate</div>
+            <div class="data-value">72 bpm</div>
+          </div>
+          <div class="data-row">
+            <div class="data-label">Temperature</div>
+            <div class="data-value">98.6°F (37.0°C)</div>
+          </div>
+          <div class="data-row">
+            <div class="data-label">Weight</div>
+            <div class="data-value">185 lbs (84 kg)</div>
+          </div>
+        </div>
+      </div>
+  
+      <div class="sidebar">
+        <div class="sidebar-header">
+          <span>LEON Assistant</span>
+        </div>
+        <div class="sidebar-content">
+          <label style="font-weight: bold; margin-bottom: 0px; margin-top: 5px;">Recommendation:</label>
+          <div>
+            Surgical resection with adjuvant cisplatin and osimertinib dual chemotherapy
+          </div>
+          <label style="font-weight: bold; margin-bottom: 0px; margin-top: 5px;">Strength of Evidence: <span style="color: #2e8b57;"><b>High</b></span></label>
+          <label style="font-weight: bold; margin-bottom: 0px; margin-top: 5px;">Reasoning:</label>
+          <div>
+            <p>47 y.o. M with PMHx of HTN, T2DM (on metformin, A1c 6.2%), and HLD non-smoker with persistent cough, chest pain, and 15 lb unintentional weight loss f/t/h newly diagnosed Stage IIB NSCLC adenocarcinoma.</p>
+            <p style="margin-top: 10px;">According to their chart, the patient underwent <a href="#">genetic testing</a> and was EGFR positive and PD-L1 negative with high Ki-67 expression. <a href="#">Recent CT imaging from 10/21</a> demonstrated a unilateral R pulmonary mass that appears to be surgically resectable.</p>
+            <p style="margin-top: 10px;">Adjuvant osimertinib after complete resection has been shown to substantially improve outcomes for EGFR-mutant stage IB–IIIA disease. This is the standard adjuvant targeted option for sensitizing EGFR mutations <a href="#" style="color: #1f1f1faa;">[1]</a>.</p>
+            <p style="margin-top: 10px;">Separately, adjuvant cisplatin-based chemotherapy remains standard-of-care for stage II adenocarcinomas and improves survival after resection <a href="#" style="color: #1f1f1faa;">[2]</a>. Given high Ki-67 proliferative index&mdash;which is associated with worse prognosis and higher recurrence risk in recent meta-analyses&mdash;adding cytotoxic adjuvant chemo is reasonable to reduce early systemic relapse risk <a href="#" style="color: #1f1f1faa;">[3]</a>.</p>
+          </div>
+          <label style="font-weight: bold; margin-bottom: 0px; margin-top: 15px;">References:</label>
+          <div>
+            <p><a href="#" style="color: #1f1f1faa;">[1]</a> Wu YL, et al. Osimertinib in resected EGFR-mutated non-small-cell lung cancer. NEJM. (2020).</p>
+            <p style="margin-top: 5px;"><a href="#" style="color: #1f1f1faa;">[2]</a> Kenmotsu H, et al. Randomized Phase III study of pemetrexed plus cisplatin versus vinorelbine plus cisplatin for completely resected Stage II to IIIA nonsquamous non-small-cell lung cancer. J Clin Oncol. (2020).</p>
+            <p style="margin-top: 5px;"><a href="#" style="color: #1f1f1faa;">[3]</a> Wang D, et al. Prognostic value of Ki-67 expression in advanced lung squamous cell carcinoma patients treated with chemotherapy. Cancer Manag Res. (2021).</p>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <script type="text/javascript" src="public/js/leon.js"></script>
+  </body>
+</html>
