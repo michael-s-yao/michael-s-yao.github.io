@@ -128,6 +128,10 @@ all_changelog = [
 all_teaching = [
   CVEvent.create(
     2025,
+    "<b>Course Author</b>: <a href='https://www.med.upenn.edu/eamc' target='_blank'>Ethical Algorithms for the Modern Clinician</a>"
+  ),
+  CVEvent.create(
+    2025,
     "<b>TA</b>: Distributed Systems (CIS 5050, University of Pennsylvania)"
   ),
   CVEvent.create(
