@@ -132,5 +132,3 @@ async function generateContent() {
     await sleep(100);
   }
 }
-
-generateContent();

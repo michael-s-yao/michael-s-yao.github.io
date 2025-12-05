@@ -147,53 +147,56 @@
         <div class="sidebar-header">
           <span style="font-size: 16px; font-weight: bold; color: #004c97;">LLM Imaging Assistant</span>
         </div>
-        <div class="sidebar-content" id="llm-content">
-          <p>47 y.o. M with PMHx of HTN, T2DM (on metformin, A1c 6.2%), and HLD non-smoker with persistent cough, chest pain, and 15 lb unintentional weight loss f/t/h newly diagnosed Stage IIB NSCLC adenocarcinoma.</p>
-          <label style="font-weight: bold; margin-bottom: 0px; margin-top: 5px;">Recommendation:</label>
-          <p>
-            <a href="#">US abdomen - Right upper quadrant</a> <span style="color: #1f1f1faa;">(Click to order)</span>
-          </p>
-          <label style="font-weight: bold; margin-bottom: 0px; margin-top: 5px;">Relevant Guidelines:</label>
-          <div>
-            <div id="acr-info-block">
-              <label class="acr-info">A large language model (LLM) has identified up to 3 <a href="https://www.acr.org/Clinical-Resources/ACR-Appropriateness-Criteria" target="_blank">ACR Appropriateness Criteria</a> topics that may describe the patient's presentation. The topics are listed from <em>most</em> to <em>least</em> relevant according to the LLM. Click on a topic to see the evidence-based imaging recommendations from the ACR for each of the topics.</label>
-              <label class="acr-info" style="text-decoration: underline;margin-left: 10px;">Legend</label>
-              <ul class="llm-legend">
-                <li><span class="green"></span> Usually appropriate</li>
-                <li><span class="yellow"></span> May be appropriate</li>
-                <li><span class="red"></span> Usually not appropriate</li>
-                <li><span class="gray"></span> Disputed/Insufficient Evidence</li>
-              </ul>
+        <div class="sidebar-content">
+          <textarea>47 y.o. M with PMHx of HTN, T2DM (on metformin, A1c 6.2%), and HLD non-smoker with persistent cough, chest pain, and 15 lb unintentional weight loss f/t/h newly diagnosed Stage IIB NSCLC adenocarcinoma.</textarea>
+          <button onclick="generateContent();">Prepare Recommendations</button>
+          <div id="llm-content">
+            <label style="font-weight: bold; margin-bottom: 0px; margin-top: 5px;">Recommendation:</label>
+            <p>
+              <a href="#">US abdomen - Right upper quadrant</a> <span style="color: #1f1f1faa;">(Click to order)</span>
+            </p>
+            <label style="font-weight: bold; margin-bottom: 0px; margin-top: 5px;">Relevant Guidelines:</label>
+            <div>
+              <div id="acr-info-block">
+                <label class="acr-info">A large language model (LLM) has identified up to 3 <a href="https://www.acr.org/Clinical-Resources/ACR-Appropriateness-Criteria" target="_blank">ACR Appropriateness Criteria</a> topics that may describe the patient's presentation. The topics are listed from <em>most</em> to <em>least</em> relevant according to the LLM. Click on a topic to see the evidence-based imaging recommendations from the ACR for each of the topics.</label>
+                <label class="acr-info" style="text-decoration: underline;margin-left: 10px;">Legend</label>
+                <ul class="llm-legend">
+                  <li><span class="green"></span> Usually appropriate</li>
+                  <li><span class="yellow"></span> May be appropriate</li>
+                  <li><span class="red"></span> Usually not appropriate</li>
+                  <li><span class="gray"></span> Disputed/Insufficient Evidence</li>
+                </ul>
+              </div>
+
+              <p style="font-weight: bold;padding-left: 5px;cursor: pointer;text-decoration: underline; color: #0078d4;">Noninvasive clinical staging of non–small-cell lung carcinoma</p>
+              <table>
+                <tr>
+                  <th>Imaging Study</th>
+                  <th>Radiation</th>
+                </tr>
+                <tr class="green"><td>CT chest with IV contrast</td><td>☢☢☢</td></tr>
+                <tr class="green"><td>CT chest without IV contrast</td><td>☢☢☢</td></tr>
+                <tr class="yellow"><td>MRI chest without and with IV contrast</td><td>O</td></tr>
+                <tr class="yellow"><td>Bone scan whole body</td><td>☢☢☢</td></tr>
+                <tr class="yellow"><td>CT abdomen and pelvis with IV contrast</td><td>☢☢☢</td></tr>
+                <tr class="red"><td>Chest X-ray</td><td>☢</td></tr>
+                <tr class="red"><td>MRI chest without IV contrast</td><td>O</td></tr>
+              </table>
+
+              <p style="font-weight: bold;padding-left: 5px;cursor: pointer;text-decoration: underline; color: #0078d4;margin-top: 25px;">Chronic cough lasting more than 8 weeks. No known risk factors for lung cancer. Initial imaging</p>
+              <table>
+                <tr>
+                  <th>Imaging Study</th>
+                  <th>Radiation</th>
+                </tr>
+                <tr class="green"><td>Chest X-ray</td><td>☢</td></tr>
+                <tr class="yellow"><td>CT chest with IV contrast</td><td>☢☢☢</td></tr>
+                <tr class="yellow"><td>CT chest without IV contrast</td><td>☢☢☢</td></tr>
+                <tr class="red"><td>MRI chest without and with IV contrast</td><td>O</td></tr>
+                <tr class="red"><td>MRI chest without IV contrast</td><td>O</td></tr>
+                <tr class="red"><td>CT chest without and with IV contrast</td><td>☢☢☢</td></tr>
+              </table>
             </div>
-
-            <p style="font-weight: bold;padding-left: 5px;cursor: pointer;text-decoration: underline; color: #0078d4;">Noninvasive clinical staging of non–small-cell lung carcinoma</p>
-            <table>
-              <tr>
-                <th>Imaging Study</th>
-                <th>Radiation</th>
-              </tr>
-              <tr class="green"><td>CT chest with IV contrast</td><td>☢☢☢</td></tr>
-              <tr class="green"><td>CT chest without IV contrast</td><td>☢☢☢</td></tr>
-              <tr class="yellow"><td>MRI chest without and with IV contrast</td><td>O</td></tr>
-              <tr class="yellow"><td>Bone scan whole body</td><td>☢☢☢</td></tr>
-              <tr class="yellow"><td>CT abdomen and pelvis with IV contrast</td><td>☢☢☢</td></tr>
-              <tr class="red"><td>Chest X-ray</td><td>☢</td></tr>
-              <tr class="red"><td>MRI chest without IV contrast</td><td>O</td></tr>
-            </table>
-
-            <p style="font-weight: bold;padding-left: 5px;cursor: pointer;text-decoration: underline; color: #0078d4;margin-top: 25px;">Chronic cough lasting more than 8 weeks. No known risk factors for lung cancer. Initial imaging</p>
-            <table>
-              <tr>
-                <th>Imaging Study</th>
-                <th>Radiation</th>
-              </tr>
-              <tr class="green"><td>Chest X-ray</td><td>☢</td></tr>
-              <tr class="yellow"><td>CT chest with IV contrast</td><td>☢☢☢</td></tr>
-              <tr class="yellow"><td>CT chest without IV contrast</td><td>☢☢☢</td></tr>
-              <tr class="red"><td>MRI chest without and with IV contrast</td><td>O</td></tr>
-              <tr class="red"><td>MRI chest without IV contrast</td><td>O</td></tr>
-              <tr class="red"><td>CT chest without and with IV contrast</td><td>☢☢☢</td></tr>
-            </table>
           </div>
         </div>
       </div>
