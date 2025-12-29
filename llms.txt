@@ -8,9 +8,9 @@ Michael Yao is an MD-PhD candidate at the University of Pennsylvania leveraging 
 
 Currently: Medical student
 
-I am an MD-PhD candidate at the University of Pennsylvania. My research focuses on **trustworthy machine learning** and how we can reliably use ML systems under distribution shift. I am interested in intelligently leveraging prior knowledge and data to help algorithms better generalize to new distributions. I explore these problems in the setting of healthcare and AI4Science. I am grateful to be have been advised by [Osbert Bastani](https://trustml.github.io) and [James Gee](https://picsl.upenn.edu) during my PhD.
+I am an MD-PhD candidate at the University of Pennsylvania. My research broadly focuses on **trustworthy machine learning** and how we can reliably use clinical ML systems under distribution shift. I am interested in how to leverage [prior knowledge](https://arxiv.org/abs/2509.20975) and [statistical methods](https://proceedings.mlr.press/v267/yao25b.html) to help algorithms better [generalize to new distributions](https://openreview.net/forum?id=STrpbhrvt3), and how we can use these methods to improve [rare disease diagnostics](https://www.nature.com/articles/s41467-025-58801-7) and [hospital workflows](https://www.nature.com/articles/s43856-025-01061-9). I also seek to better understand the *types of distribution shift* observed in clinical practice, and am also working to improve discussions on AI in [medical education](https://mededu.jmir.org/2025/1/e63602).
 
-I am grateful to be supported by an [NIH F30 NRSA Fellowship](https://reporter.nih.gov/project-details/11194234) from the National Institute on Minority Health and Health Disparities (NIMHD).
+I was advised by [Osbert Bastani](https://trustml.github.io) and [James Gee](https://picsl.upenn.edu) during my PhD, and am grateful to be supported by an [NIH F30 NRSA Fellowship](https://reporter.nih.gov/project-details/11194234) from the National Institute on Minority Health and Health Disparities (NIMHD).
 
   - 2025 | Received my PhD in Bioengineering and MS in Computer Science from the University of Pennsylvania
   - 2025 | Research Scientist Intern at [Genentech](https://www.gene.com/scientists/our-scientists/braid) Generative AI
@@ -23,6 +23,7 @@ I am grateful to be supported by an [NIH F30 NRSA Fellowship](https://reporter.n
 
 ## Publications
 
+  - 2025 | Can language models help us personalize treatment strategies for patients? Learn more about how we can use LLMs for clinical medicine in our new [preprint](https://arxiv.org/abs/2509.20975)!
   - 2025 | Can generative language models like ChatGPT help clinicians order diagnostic imaging studies in the ED? Check out our new [paper](https://www.nature.com/articles/s43856-025-01061-9) hot off the press in Communications Medicine to learn more! [Aunt Minnie article](https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15752498/gene)
   - 2025 | How can we ensure that offline optimization methods propose both high-quality *and* diverse sets of designs? Learn more about DynAMO in our new [paper]('http://arxiv.org/abs/2501.18768') accepted to ICML 2025!
   - 2025 | Excited to share our work in Nature Communications on [multimodal concept bottleneck models](https://www.nature.com/articles/s41467-025-58801-7) for interpretable eye cancer diagnostics, led by the incredible [Yifan Wu](https://yifannnwu.github.io)!
@@ -60,6 +61,8 @@ I am grateful to be supported by an [NIH F30 NRSA Fellowship](https://reporter.n
 
 ## Outreach
 
-I designed and run a short course on the [fundamentals of ML for medical students](https://eamc-penn.github.io). I have previously served as Vice Chair of the Technology Committee for the [American Physician Scientists Association (APSA)](https://www.physicianscientists.org) and as Director of Data Science and AI for [MDplus](http://ai.mdplus.community). At Penn, I am involved in a number of mentorship and outreach initiatives and have served on both the Admissions Committee and AI Curriculum Steering Committee for the School of Medicine.
+I designed and run a short course on the [fundamentals of ML for medical students](https://www.med.upenn.edu/eamc). I currently serve as a president of the [PennHealthX](https://www.pennhealthx.com) student group, and have previously served as Vice Chair of the Technology Committee for the [American Physician Scientists Association (APSA)](https://www.physicianscientists.org) and as Director of Data Science and AI for [MDplus](http://ai.mdplus.community). At Penn, I am involved in a number of mentorship and outreach initiatives and have served on both the Admissions Committee and AI Curriculum Steering Committee for the School of Medicine.
 
-I am actively involved in Penn's interview and recruitment process for medical school admissions. I set aside half an hour a week to meet with current students for pro bono feedback on applications and general college advice, especially for underrepresented students from minority backgrounds. If you're interested in connecting, feel free to reach out to me via email or Twitter.
+I am actively involved in Penn&apos;s interview and recruitment process for medical school admissions. I set aside half an hour a week to meet with current students for pro bono feedback on applications and general college advice, especially for underrepresented students from minority backgrounds. I also enjoy working with and mentoring students on interesting research projects. If you&apos;re interested in connecting, please reach out to me via email.
+
+In my free time, I enjoy solving [fun math problems](https://github.com/michael-s-yao/ProjectEuler) and [festive programming puzzles](https://github.com/michael-s-yao/AdventOfCode2025) with code, and contributing to open-source software. I am also a (mediocre) chess hobbyist.
