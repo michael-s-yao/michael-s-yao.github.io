@@ -23,7 +23,7 @@ I was advised by [Osbert Bastani](https://trustml.github.io) and [James Gee](htt
 
 ## Publications
 
-  - 2025 | Can language models help us personalize treatment strategies for patients? Learn more about how we can use LLMs for clinical medicine in our new [preprint](https://arxiv.org/abs/2509.20975)!
+  - 2026 | Can language models help us personalize treatment strategies for patients? Learn more about how we can use LLMs for clinical medicine in our new [paper](https://openreview.net/forum?id=w025bYRVkO) accepted to ICLR 2026!
   - 2025 | Can generative language models like ChatGPT help clinicians order diagnostic imaging studies in the ED? Check out our new [paper](https://www.nature.com/articles/s43856-025-01061-9) hot off the press in Communications Medicine to learn more! [Aunt Minnie article](https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15752498/gene)
   - 2025 | How can we ensure that offline optimization methods propose both high-quality *and* diverse sets of designs? Learn more about DynAMO in our new [paper]('http://arxiv.org/abs/2501.18768') accepted to ICML 2025!
   - 2025 | Excited to share our work in Nature Communications on [multimodal concept bottleneck models](https://www.nature.com/articles/s41467-025-58801-7) for interpretable eye cancer diagnostics, led by the incredible [Yifan Wu](https://yifannnwu.github.io)!

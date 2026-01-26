@@ -53,11 +53,11 @@ all_history = [
 
 all_changelog = [
   CVEvent.create(
-    2025,
+    2026,
     "Can language models help us personalize treatment strategies for " +
     "patients? Learn more about how we can use LLMs for clinical medicine " +
-    "in our new <a href='https://arxiv.org/abs/2509.20975'>preprint<i " +
-    "class='fa fa-link' aria-hidden='true'></i></a>!"
+    "in our new <a href='https://openreview.net/forum?id=w025bYRVkO'>paper<i" +
+    " class='fa fa-link' aria-hidden='true'></i></a> accepted to ICLR 2026!"
   ),
   CVEvent.create(
     2025,
