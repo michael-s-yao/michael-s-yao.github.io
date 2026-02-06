@@ -23,16 +23,6 @@ all_history = [
     "Genentech</a> Generative AI"
   ),
   CVEvent.create(
-    2025,
-    "Human Frontier Collective Intern at " +
-    "<a href='https://hfc.scale.com'>Scale AI</a>"
-  ),
-  CVEvent.create(
-    2024,
-    "VC Fellow at " +
-    "<a href='https://www.25madison.com/health'>25madison Health Studio</a>"
-  ),
-  CVEvent.create(
     2023,
     "AI Clinical Fellow at " +
     "<a href='https://glass.health'>Glass Health</a>"
@@ -57,7 +47,7 @@ all_changelog = [
   CVEvent.create(
     2026,
     "Can language models help us personalize treatment strategies for " +
-    "patients? Learn more about how we can use LLMs for clinical medicine " +
+    "patients? Learn more about how we can use LLMs for precision medicine " +
     "in our new <a href='https://openreview.net/forum?id=w025bYRVkO'>paper<i" +
     " class='fa fa-link' aria-hidden='true'></i></a> accepted to ICLR 2026!"
   ),
@@ -66,8 +56,11 @@ all_changelog = [
     "Can generative language models like ChatGPT help clinicians order " +
     "diagnostic imaging studies in the ED? Check out our new <a href=" +
     "'https://www.nature.com/articles/s43856-025-01061-9'>paper<i " +
-    "class='fa fa-link' aria-hidden='true'></i></a> hot off the press in " +
-    "Communications Medicine to learn more! <a href='https://www.auntminnie" +
+    "class='fa fa-link' aria-hidden='true'></i></a> in Communications " +
+    "Medicine to learn more! <a href='https://www.linkedin.com/posts/" +
+    "pennengai_using-ai-to-support-smarter-imaging-decisions-activity-" +
+    "7425539042240360448-9wdP'>Penn press release<i class='fa fa-link' " +
+    "aria-hidden='true'></i></a> &emsp;<a href='https://www.auntminnie" +
     ".com/imaging-informatics/artificial-intelligence/article/15752498/gene" +
     "rative-ai-improves-clinical-decisionmaking-in-the-ed'>Aunt Minnie " +
     "article<i class='fa fa-link' aria-hidden='true'></i></a>"
@@ -76,7 +69,7 @@ all_changelog = [
     2025,
     "How can we ensure that offline optimization methods propose both " +
     "high-quality <em>and</em> diverse sets of designs? Learn more about " +
-    "DynAMO in our new <a href='http://arxiv.org/abs/2501.18768'>paper" +
+    "our method DynAMO in our new <a href='http://arxiv.org/abs/2501.18768'>paper" +
     "<i class='fa fa-link' aria-hidden='true'></i></a> accepted to ICML 2025!"
   ),
   CVEvent.create(
@@ -86,12 +79,6 @@ all_changelog = [
     "concept bottleneck models<i class='fa fa-link' aria-hidden='true'></i></a> " +
     "for interpretable eye cancer diagnostics, led by the incredible " +
     "<a href='https://yifannnwu.github.io'>Yifan Wu</a>!"
-  ),
-  CVEvent.create(
-    2025,
-    "New <a href='https://doi.org/10.1148/radiol.243659'>editorial<i " +
-    "class='fa fa-link' aria-hidden='true'></i></a> on using LLMs " +
-    "for radiology report parsing now out in RSNA Radiology."
   ),
   CVEvent.create(
     2025,
@@ -117,13 +104,6 @@ all_changelog = [
     "<a href='https://yueyang1996.github.io/'>Yue Yang</a>! <a href='https://" +
     "blog.seas.upenn.edu/training-medical-ai-with-knowledge-not-shortcuts/'>" +
     "Penn press release<i class='fa fa-link' aria-hidden='true'></i></a>"
-  ),
-  CVEvent.create(
-    2024,
-    "Check out our new review paper on " +
-    "<a href='https://pubs.rsna.org/doi/10.1148/radiol.223170'>AI " +
-    "deployment strategies for clinical radiology<i class='fa fa-link' " +
-    "aria-hidden='true'></i></a> now out in RSNA Radiology."
   )
 ];
 
@@ -134,53 +114,27 @@ all_teaching = [
   ),
   CVEvent.create(
     2025,
-    "<b>TA</b>: Distributed Systems (CIS 5050, University of Pennsylvania)"
+    "<b>TA</b>: Distributed Systems"
   ),
   CVEvent.create(
     2024,
-    "<b>TA</b>: Principles of Deep Learning (ESE 5460, University of Pennsylvania)"
+    "<b>TA</b>: Principles of Deep Learning"
   ),
   CVEvent.create(
     2024,
-    "<b>TA</b>: Imaging Informatics (EAS 5850, University of Pennsylvania)"
+    "<b>TA</b>: Imaging Informatics"
   ),
   CVEvent.create(
     2024,
-    "<b>Head TA</b>: Health, Healthcare and Technology (CIS 7000, " +
-    "University of Pennsylvania)"
+    "<b>Head TA</b>: Health, Healthcare and Technology"
   ),
   CVEvent.create(
     2024,
-    "<b>TA</b>: Diagnostic Ultrasound for Medical Students " +
-    "(University of Pennsylvania SOM)"
+    "<b>TA</b>: Diagnostic Ultrasound for Medical Students"
   ),
   CVEvent.create(
     2024,
-    "<b>TA</b>: Pre-Clinical Medicine (University of Pennsylvania SOM)"
-  ),
-  CVEvent.create(
-    2021, "<b>Head TA</b>: Applied Mathematics (ACM 95a, Caltech)"
-  ),
-  CVEvent.create(
-    2020, "<b>TA</b>: Graduate Classical Physics (Ph 106a, Caltech)"
-  ),
-  CVEvent.create(
-    2020, "<b>TA</b>: Applied Mathematics (ACM 95b, Caltech)"
-  ),
-  CVEvent.create(
-    2020, "<b>TA</b>: Quantum Physics (Ph 12b, Caltech)"
-  ),
-  CVEvent.create(
-    2019, "<b>TA</b>: Operating Systems (CS 24, Caltech)"
-  ),
-  CVEvent.create(
-    2019, "<b>TA</b>: Waves and Oscillations (Ph 12a, Caltech)"
-  ),
-  CVEvent.create(
-    2019, "<b>TA</b>: Electrodynamics and Magnetism (Ph 1c, Caltech)"
-  ),
-  CVEvent.create(
-    2019, "<b>TA</b>: Special Relativity and Electrostatics (Ph 1b, Caltech)"
+    "<b>TA</b>: Clinical Reasoning for Medical Students"
   )
 ];
 
