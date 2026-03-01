@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en-US" style="scroll-behavior: smooth;">
+  <head>
+    <title>CSV Anki</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap" rel="stylesheet">
+    <!-- Insert any fonts here. -->
+    <script src="https://use.fontawesome.com/cefbebdc70.js"></script>
+    <link rel="stylesheet" type="text/css" href="/public/css/index.css">
+    <link rel="stylesheet" type="text/css" href="/public/css/flashcards.css">
+    <meta name="theme-color" content="#f1f1f1;">
+  </head>
+  <body>
+    <div class="light-dark-toggle"><i id="light-dark-toggle-icon" class="fa fa-moon-o"></i></div>
+    <main>
+      <nav>
+        <span class="nav-left" id="navLeft"></span>
+        <div class="nav-right" id="navRight" style="display:none">
+          <span class="counter" id="counter">1 / —</span>
+          <button class="btn" onclick="shuffleDeck()">shuffle</button>
+        </div>
+      </nav>
+      <div class="progress-track"><div class="progress-fill" id="progress"></div></div>
+      <div id="view"></div>
+    </main>
+
+    <input type="file" id="fileInput" accept=".csv" style="display:none">
+
+    <footer>
+      <p>&#169;<span id="year"></span> Michael Yao. All rights reserved.</p>
+    </footer>
+    <script type="module" src="/public/js/nn-animation.js"></script>
+    <script type="text/javascript" src="/public/js/color.js"></script>
+    <script type="text/javascript" src="/public/js/footer.js"></script>
+    <script type="text/javascript" src="/public/js/flashcards.js"></script>
+</body>
+</html>

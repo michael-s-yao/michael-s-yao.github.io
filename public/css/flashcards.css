@@ -1,0 +1,269 @@
+body { margin: 0; }
+
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0;
+  width: 100%;
+  grid-template-columns: unset;
+}
+
+.nav-left {
+  font-size: var(--SMALL);
+  font-weight: var(--THICK);
+  color: var(--FONT-COLOR);
+  letter-spacing: 0.5px;
+}
+
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.counter {
+  font-size: var(--X-SMALL);
+  color: var(--FADED-COLOR);
+  font-weight: var(--THICK);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.progress-track {
+  width: 100%;
+  height: 2px;
+  background-color: rgba(31, 31, 31, 0.1);
+  margin: 12px 0 32px;
+}
+
+.dark-theme .progress-track {
+  background-color: rgba(241, 241, 241, 0.1);
+}
+
+.progress-fill {
+  height: 100%;
+  background-color: var(--PURPLE);
+  width: 0%;
+  transition: width 0.3s ease;
+}
+
+.upload-section {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.drop-zone {
+  border: 1.5px dashed var(--FADED-COLOR);
+  border-radius: 8px;
+  padding: 40px 32px;
+  text-align: center;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  transition: all 0.2s ease;
+}
+
+.drop-zone:hover, .drop-zone.over {
+  border-color: var(--PURPLE);
+  background-color: rgba(124, 82, 149, 0.05);
+}
+
+.drop-zone p {
+  margin: 0;
+  color: var(--FADED-COLOR);
+}
+
+.upload-error {
+  color: var(--RED);
+  font-size: var(--X-SMALL);
+  font-weight: var(--NORMAL);
+  display: none;
+}
+
+.card-wrap {
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.card {
+  border: 1.5px solid var(--FADED-COLOR);
+  border-radius: 8px;
+  padding: 40px 44px;
+  min-height: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  transition: border-color 0.2s ease;
+}
+
+.card:hover {
+  border-color: var(--FONT-COLOR);
+}
+
+.card.flipped {
+  border-color: var(--PURPLE);
+}
+
+.card-label {
+  font-size: var(--X-SMALL);
+  font-weight: var(--THICK);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--FADED-COLOR);
+  margin-bottom: 16px;
+}
+
+.card.flipped .card-label {
+  color: var(--PURPLE);
+}
+
+.card-content {
+  font-size: var(--MEDIUM);
+  font-weight: var(--THIN);
+  line-height: 1.55;
+  color: var(--FONT-COLOR);
+}
+
+.card-content strong {
+  font-weight: var(--THICK);
+  color: var(--FONT-COLOR);
+}
+
+.card-hint {
+  position: absolute;
+  bottom: 14px;
+  right: 18px;
+  font-size: var(--X-SMALL);
+  color: var(--FADED-COLOR);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.card-hint kbd {
+  border: 1px solid var(--FADED-COLOR);
+  border-radius: 4px;
+  padding: 1px 5px;
+  font-size: 11px;
+  color: var(--FADED-COLOR);
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.btn {
+  font-family: var(--FONT);
+  font-size: var(--X-SMALL);
+  font-weight: var(--NORMAL);
+  color: var(--FONT-COLOR);
+  background: transparent;
+  border: 1px solid var(--FONT-COLOR);
+  border-radius: 6px;
+  padding: 6px 16px;
+  cursor: pointer;
+  letter-spacing: 0.25px;
+  transition: all 0.2s ease;
+}
+
+.btn:hover {
+  background-color: var(--FONT-COLOR);
+  color: var(--BACKGROUND-COLOR);
+}
+
+.btn:disabled {
+  opacity: 0.25;
+  cursor: not-allowed;
+}
+
+.btn:disabled:hover {
+  background: transparent;
+  color: var(--FONT-COLOR);
+}
+
+.btn-primary {
+  border-color: var(--PURPLE);
+  color: var(--PURPLE);
+}
+
+.btn-primary:hover {
+  background-color: var(--PURPLE);
+  color: var(--BACKGROUND-COLOR);
+}
+
+.btn-spacer { flex: 1; }
+
+.dot-nav {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-top: 24px;
+}
+
+.dot {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  border: 1.5px solid var(--FADED-COLOR);
+  background: transparent;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: all 0.15s ease;
+}
+
+.dot:hover { border-color: var(--FONT-COLOR); }
+.dot.current { background: var(--PURPLE); border-color: var(--PURPLE); }
+
+.complete-section {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.complete-section h2 {
+  color: var(--FONT-COLOR);
+}
+
+.complete-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 8px;
+}
+
+.shortcuts {
+  margin-top: 28px;
+  display: flex;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+
+.shortcut {
+  font-size: var(--X-SMALL);
+  color: var(--FADED-COLOR);
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.shortcut kbd {
+  border: 1px solid var(--FADED-COLOR);
+  border-radius: 3px;
+  padding: 1px 5px;
+  font-size: 11px;
+}
