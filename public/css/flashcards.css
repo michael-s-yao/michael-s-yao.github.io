@@ -209,26 +209,6 @@ nav {
 
 .btn-spacer { flex: 1; }
 
-.dot-nav {
-  display: flex;
-  gap: 6px;
-  flex-wrap: wrap;
-  margin-top: 24px;
-}
-
-.dot {
-  width: 8px; height: 8px;
-  border-radius: 50%;
-  border: 1.5px solid var(--FADED-COLOR);
-  background: transparent;
-  cursor: pointer;
-  flex-shrink: 0;
-  transition: all 0.15s ease;
-}
-
-.dot:hover { border-color: var(--FONT-COLOR); }
-.dot.current { background: var(--PURPLE); border-color: var(--PURPLE); }
-
 .complete-section {
   margin-top: 20px;
   display: flex;

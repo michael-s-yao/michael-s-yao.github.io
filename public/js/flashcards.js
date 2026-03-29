@@ -135,7 +135,6 @@ function buildDeckView() {
       <div class="btn-spacer"></div>
       <button class="btn" onclick="nextCard()" id="btnNext">next →</button>
     </div>
-    <div class="dot-nav" id="dotNav"></div>
     <div class="shortcuts">
       <div class="shortcut">
         <kbd class="monospace">←</kbd><kbd class="monospace">→</kbd>navigate
@@ -174,24 +173,6 @@ function render() {
   document.getElementById("progress").style.width = (
     (idx / cards.length * 100) + "%"
   );
-
-  renderDots();
-}
-
-function renderDots() {
-  const nav = document.getElementById("dotNav");
-  nav.innerHTML = "";
-  cards.forEach((_, i) => {
-    const d = document.createElement("div");
-    d.className = "dot" + (i === idx ? " current" : "");
-    d.title = `Card ${i + 1}`;
-    d.onclick = () => {
-      idx = i;
-      flipped = false;
-      render();
-    };
-    nav.appendChild(d);
-  });
 }
 
 function md(text) {
