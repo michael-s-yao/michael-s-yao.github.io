@@ -23,6 +23,11 @@ all_history = [
     "Genentech</a> Generative AI"
   ),
   CVEvent.create(
+    2025,
+    "Human Frontier Collective Intern at " +
+    "<a href='https://hfc.scale.com'>Scale AI</a>"
+  ),
+  CVEvent.create(
     2023,
     "AI Clinical Fellow at " +
     "<a href='https://glass.health'>Glass Health</a>"
@@ -109,8 +114,12 @@ all_changelog = [
 
 all_teaching = [
   CVEvent.create(
-    2025,
+    2026,
     "<b>Course Author</b>: <a href='https://www.med.upenn.edu/eamc' target='_blank'>Ethical Algorithms for the Modern Clinician</a>"
+  ),
+  CVEvent.create(
+    2026,
+    "<b>Head TA</b>: Health, Healthcare and Technology"
   ),
   CVEvent.create(
     2025,
@@ -123,10 +132,6 @@ all_teaching = [
   CVEvent.create(
     2024,
     "<b>TA</b>: Imaging Informatics"
-  ),
-  CVEvent.create(
-    2024,
-    "<b>Head TA</b>: Health, Healthcare and Technology"
   ),
   CVEvent.create(
     2024,
