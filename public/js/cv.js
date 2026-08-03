@@ -11,6 +11,10 @@ const CVEvent = {
 
 all_history = [
   CVEvent.create(
+    2026,
+    "Research Scientist at <a href='https://www.abridge.com'>Abridge</a>"
+  ),
+  CVEvent.create(
     2025,
     "Received my <a href='https://www.proquest.com/docview/3298652850'>PhD " +
     "in Bioengineering</a> and MS in Computer Science from the University " +
