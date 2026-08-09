@@ -19,7 +19,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "24"
 
       - name: Regenerate llms.txt
         run: node scripts/sync-llms-txt.mjs
@@ -33,5 +33,22 @@ jobs:
             echo "llms.txt already up to date."
           else
             git commit -m "Sync llms.txt with index.html and cv.js [skip ci]"
+            git push
+          fi
+
+      - name: Push llms.txt as README.md to profile repo
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_REPO_PAT }}
+        run: |
+          git clone https://x-access-token:${GH_TOKEN}@github.com/michael-s-yao/michael-s-yao.git /tmp/profile-repo
+          cp llms.txt /tmp/profile-repo/README.md
+          cd /tmp/profile-repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "README.md already up to date."
+          else
+            git commit -m "Sync README.md from llms.txt"
             git push
           fi
