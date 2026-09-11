@@ -23,6 +23,7 @@ I was advised by [Osbert Bastani](https://trustml.github.io) and [James Gee](htt
 
 ## Publications
 
+  - 2026 | How can LLMs help us quantify gender disparities in academic medical research? Check out our new [paper](https://doi.org/10.1093/jamiaopen/ooag173) published in JAMIA Open, and also to appear at [AMIA](https://amia.secure-platform.com/symposium/gallery/rounds/82037/details/28910) and [NMPRA](https://medpeds.org/about-nmpra/national-meeting/) later this year.
   - 2026 | Can language models help us personalize treatment strategies for patients? Learn more about how we can use LLMs for precision medicine in our new [paper](https://openreview.net/forum?id=w025bYRVkO) accepted to ICLR 2026!
   - 2025 | Can generative language models like ChatGPT help clinicians order diagnostic imaging studies in the ED? Check out our new [paper](https://www.nature.com/articles/s43856-025-01061-9) in Communications Medicine to learn more! [Penn press release](https://www.linkedin.com/posts/pennengai_using-ai-to-support-smarter-imaging-decisions-activity-7425539042240360448-9wdP) [Aunt Minnie article](https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15752498/generative-ai-improves-clinical-decisionmaking-in-the-ed)
   - 2025 | How can we ensure that offline optimization methods propose both high-quality *and* diverse sets of designs? Learn more about our method DynAMO in our new [paper](http://arxiv.org/abs/2501.18768) accepted to ICML 2025!
