@@ -55,6 +55,18 @@ all_history = [
 all_changelog = [
   CVEvent.create(
     2026,
+    "How can LLMs help us quantify gender disparities in academic medical " +
+    "research? Check out our new <a href='https://doi.org/10.1093/" +
+    "jamiaopen/ooag173'>paper<i class='fa fa-link' aria-hidden='true'></i>" +
+    "</a> published in JAMIA Open, and also to appear at " +
+    "<a href='https://amia.secure-platform.com/symposium/gallery/" +
+    "rounds/82037/details/28910'>AMIA<i class='fa fa-link' aria-hidden=" +
+    "'true'></i></a> and <a href='https://medpeds.org/about-nmpra/" +
+    "national-meeting/'>NMPRA<i class='fa fa-link' aria-hidden='true'>" +
+    "</i></a> later this year."
+  ),
+  CVEvent.create(
+    2026,
     "Can language models help us personalize treatment strategies for " +
     "patients? Learn more about how we can use LLMs for precision medicine " +
     "in our new <a href='https://openreview.net/forum?id=w025bYRVkO'>paper<i" +
